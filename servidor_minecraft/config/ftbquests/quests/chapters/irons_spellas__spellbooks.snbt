@@ -25,6 +25,7 @@
 	quest_links: [ ]
 	quests: [
 		{
+			description: ["Iron's Spells and Spellbooks añade hechizos, libros de hechizos, varas magicas, jefes entre otras cosas."]
 			icon: {
 				Count: 1
 				ForgeCaps: {
@@ -43,6 +44,22 @@
 				}
 			}
 			id: "0AC53E63A084B485"
+			rewards: [{
+				id: "7B9ABA187E895A3F"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:splash_potion"
+					tag: {
+						Potion: "irons_spellbooks:instant_mana_two"
+					}
+				}
+				type: "item"
+			}]
 			shape: "pentagon"
 			size: 2.0d
 			tasks: [{
@@ -96,6 +113,20 @@
 		{
 			dependencies: ["0AC53E63A084B485"]
 			id: "10B7164CA5531139"
+			rewards: [{
+				count: 5
+				id: "1DF27E45E1A6CC6A"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "irons_spellbooks:arcane_essence"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "14A36A441E6AEB91"
 				item: {

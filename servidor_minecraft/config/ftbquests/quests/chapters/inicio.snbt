@@ -457,6 +457,38 @@
 			x: 5.0d
 			y: -2.0d
 		}
+		{
+			dependencies: ["226EF1B52BDE3D2B"]
+			description: ["Al morir van a perder un &ccorazón&r, hasta mínimo 3. Para recuperarlos pueden comer &6manzanas doradas&r."]
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "minecraft:textures/particle/heart.png"
+				}
+			}
+			id: "025C180246B8EDC7"
+			rewards: [{
+				id: "69B6643F284392C8"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:cookie"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "67BF6C4AD7011CB4"
+				title: "Mediumcore"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: -2.0d
+		}
 	]
 	title: "Inicio"
 }

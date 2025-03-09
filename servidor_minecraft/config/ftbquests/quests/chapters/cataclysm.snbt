@@ -39,6 +39,19 @@
 					type: "xp_levels"
 					xp_levels: 7
 				}
+				{
+					id: "66B5A9AFCF873988"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:enchanted_golden_apple"
+					}
+					type: "item"
+				}
 			]
 			shape: "hexagon"
 			size: 1.5d
@@ -64,20 +77,40 @@
 		{
 			description: ["Aparece en una ciudad hundida en el mar. Pata invocarlo se tiene que craftear el Sacrificio Abisal y ponerlo en el altar al centro de la estructura."]
 			id: "18210761F4945695"
-			rewards: [{
-				count: 4
-				id: "40679DC693D9E659"
-				item: {
-					Count: 1
-					ForgeCaps: {
-						"celestisynth:celestisynthitemstackcapabilities": {
-							cs.aquaSkin: 0
+			rewards: [
+				{
+					count: 4
+					id: "40679DC693D9E659"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
 						}
+						id: "numismatics:sun"
 					}
-					id: "numismatics:sun"
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "5E1DBC5917829AC7"
+					type: "xp_levels"
+					xp_levels: 6
+				}
+				{
+					id: "6C25E2E498B55D47"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:enchanted_golden_apple"
+					}
+					type: "item"
+				}
+			]
 			shape: "hexagon"
 			size: 1.5d
 			tasks: [{
@@ -121,6 +154,19 @@
 					id: "29CE9A8D2DFC71CF"
 					type: "xp_levels"
 					xp_levels: 6
+				}
+				{
+					id: "272930805A98089A"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:enchanted_golden_apple"
+					}
+					type: "item"
 				}
 			]
 			shape: "hexagon"
@@ -167,6 +213,19 @@
 					type: "xp_levels"
 					xp_levels: 5
 				}
+				{
+					id: "4D1F68E2658A6EE8"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:enchanted_golden_apple"
+					}
+					type: "item"
+				}
 			]
 			shape: "hexagon"
 			size: 1.5d
@@ -211,6 +270,19 @@
 					id: "1C1E3FC546C63CE7"
 					type: "xp_levels"
 					xp_levels: 5
+				}
+				{
+					id: "4A5D4B613BA24F01"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:enchanted_golden_apple"
+					}
+					type: "item"
 				}
 			]
 			shape: "hexagon"
@@ -257,6 +329,19 @@
 					type: "xp_levels"
 					xp_levels: 5
 				}
+				{
+					id: "442C68D3CB7BD931"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:enchanted_golden_apple"
+					}
+					type: "item"
+				}
 			]
 			shape: "hexagon"
 			size: 1.5d
@@ -301,6 +386,19 @@
 					id: "294CCD9CBBB0EB87"
 					type: "xp_levels"
 					xp_levels: 5
+				}
+				{
+					id: "77A3290EDBA61D2A"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:enchanted_golden_apple"
+					}
+					type: "item"
 				}
 			]
 			shape: "hexagon"

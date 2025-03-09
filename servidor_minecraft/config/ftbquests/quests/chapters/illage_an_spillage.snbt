@@ -37,6 +37,19 @@
 					type: "xp_levels"
 					xp_levels: 3
 				}
+				{
+					id: "20FAEF887D513CAD"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:golden_apple"
+					}
+					type: "item"
+				}
 			]
 			shape: "hexagon"
 			size: 1.5d
@@ -81,6 +94,19 @@
 					id: "0BA3EBAB12E5BEBA"
 					type: "xp_levels"
 					xp_levels: 3
+				}
+				{
+					id: "1A3CE06FD191E1B4"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:golden_apple"
+					}
+					type: "item"
 				}
 			]
 			shape: "hexagon"
@@ -129,6 +155,19 @@
 					id: "7E977B919B7BE7E8"
 					type: "xp_levels"
 					xp_levels: 3
+				}
+				{
+					id: "746F2B690554248D"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:golden_apple"
+					}
+					type: "item"
 				}
 			]
 			shape: "hexagon"

@@ -40,6 +40,19 @@
 					type: "xp_levels"
 					xp_levels: 10
 				}
+				{
+					id: "2719E30D080702E2"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:enchanted_golden_apple"
+					}
+					type: "item"
+				}
 			]
 			shape: "hexagon"
 			size: 1.5d
@@ -97,6 +110,19 @@
 					type: "xp_levels"
 					xp_levels: 10
 				}
+				{
+					id: "68DA2C489D24525C"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:enchanted_golden_apple"
+					}
+					type: "item"
+				}
 			]
 			shape: "hexagon"
 			size: 1.5d
@@ -147,6 +173,19 @@
 					type: "xp_levels"
 					xp_levels: 10
 				}
+				{
+					id: "3D2B2F414D2229AD"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:enchanted_golden_apple"
+					}
+					type: "item"
+				}
 			]
 			shape: "hexagon"
 			size: 1.5d
@@ -195,6 +234,19 @@
 					type: "xp_levels"
 					xp_levels: 10
 				}
+				{
+					id: "557889A6BD37B1DF"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:enchanted_golden_apple"
+					}
+					type: "item"
+				}
 			]
 			shape: "hexagon"
 			size: 1.5d
@@ -241,6 +293,19 @@
 					id: "7D6FC9859C81CCC3"
 					type: "xp_levels"
 					xp_levels: 10
+				}
+				{
+					id: "11BDC8BBD8BBABB1"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:enchanted_golden_apple"
+					}
+					type: "item"
 				}
 			]
 			shape: "hexagon"
@@ -289,6 +354,19 @@
 					type: "xp_levels"
 					xp_levels: 10
 				}
+				{
+					id: "376BFD3B469F3633"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:enchanted_golden_apple"
+					}
+					type: "item"
+				}
 			]
 			shape: "hexagon"
 			size: 1.5d
@@ -335,6 +413,19 @@
 					id: "46AECECDD6192FB9"
 					type: "xp_levels"
 					xp_levels: 10
+				}
+				{
+					id: "329DD99E930E53A3"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:enchanted_golden_apple"
+					}
+					type: "item"
 				}
 			]
 			shape: "hexagon"
