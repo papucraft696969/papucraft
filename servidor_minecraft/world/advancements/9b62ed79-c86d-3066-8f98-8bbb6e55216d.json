@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-03-09 21:23:33 +0000"
+    },
+    "done": true
+  },
   "plenty_of_golems:not_enough_golem_ad": {
     "criteria": {
       "not_enough_golem_ad_0": "2025-03-09 21:07:34 +0000"
@@ -40,6 +46,12 @@
       "has_the_recipe": "2025-03-09 21:07:34 +0000"
     },
     "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-03-09 21:23:33 +0000"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_white": {
     "criteria": {
@@ -155,6 +167,12 @@
     },
     "done": true
   },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-03-09 21:22:44 +0000"
+    },
+    "done": false
+  },
   "naturescompass:natures_compass": {
     "criteria": {
       "has_recipe": "2025-03-09 21:07:34 +0000"
@@ -203,6 +221,12 @@
     },
     "done": true
   },
+  "idas:tinkers_citadel": {
+    "criteria": {
+      "in_tinkers_citadel": "2025-03-09 21:16:20 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-03-09 21:07:35 +0000"
@@ -236,6 +260,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:dark_forest": "2025-03-09 21:07:37 +0000",
+      "minecraft:river": "2025-03-09 21:24:56 +0000",
+      "minecraft:forest": "2025-03-09 21:22:01 +0000",
       "minecraft:plains": "2025-03-09 21:11:16 +0000"
     },
     "done": false

@@ -8746,3 +8746,11 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [09Mar2025 21:12:12.230] [Worker-Main-13/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=863, y=66, z=943}
 [09Mar2025 21:12:18.827] [Worker-Main-12/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=863, y=66, z=944}
 [09Mar2025 21:16:20.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElPerejil24 has completed the challenge [Tinker's Citadel]
+[09Mar2025 21:21:55.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Spectator Mode]
+[09Mar2025 21:22:41.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Survival Mode]
+[09Mar2025 21:22:44.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Creative Mode]
+[09Mar2025 21:22:55.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Spectator Mode]
+[09Mar2025 21:23:11.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Creative Mode]
+[09Mar2025 21:23:33.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElPerejil24 has made the advancement ['X' Marks the Spot]
+[09Mar2025 21:24:01.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Spectator Mode]
+[09Mar2025 21:24:55.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Creative Mode]
