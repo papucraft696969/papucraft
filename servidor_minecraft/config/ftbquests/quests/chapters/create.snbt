@@ -84,19 +84,34 @@
 			dependencies: ["355BB0FD3938AA79"]
 			description: ["Es el material básico con el que se hacen las maquinas y componentes más importantes del mod."]
 			id: "0DA2BBB11F658EA7"
-			rewards: [{
-				id: "64E4F4186E78D44C"
-				item: {
-					Count: 1
-					ForgeCaps: {
-						"celestisynth:celestisynthitemstackcapabilities": {
-							cs.aquaSkin: 0
+			rewards: [
+				{
+					id: "64E4F4186E78D44C"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
 						}
+						id: "create:wrench"
 					}
-					id: "create:wrench"
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "40677C49B9EDFD79"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:brown_toolbox"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				count: 64L
 				id: "1CFD4355DE261DC5"
@@ -237,6 +252,35 @@
 			dependencies: ["0DA2BBB11F658EA7"]
 			description: ["Generan energía rotacional al girar con agua o lava. La pequeña es más rápida pero tiene menor capacida de estrés y la grande es más lenta pero tiene el doble de capacidad de estrés."]
 			id: "4E543B644EF54B87"
+			rewards: [
+				{
+					id: "69FC33205AA6DABF"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:water_bucket"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "4C12FFA73D5ECF4E"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:shaft"
+					}
+					type: "item"
+				}
+			]
 			tasks: [
 				{
 					id: "7FAE2BA3586D8CB7"
@@ -491,6 +535,20 @@
 				id: "create:copper_casing"
 			}
 			id: "27104A392A4ADAAB"
+			rewards: [{
+				count: 16
+				id: "5DF3C976BFB261E8"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:copper_ingot"
+				}
+				type: "item"
+			}]
 			tasks: [
 				{
 					count: 9L
