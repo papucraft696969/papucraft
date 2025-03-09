@@ -1,0 +1,99 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "born_in_chaos"
+	group: "026C07FBD0DA37DB"
+	icon: {
+		Count: 1
+		ForgeCaps: {
+			"celestisynth:celestisynthitemstackcapabilities": {
+				cs.aquaSkin: 0
+			}
+		}
+		id: "born_in_chaos_v1:nightmare_stalker_skull"
+	}
+	id: "11CEE66252318FA5"
+	order_index: 6
+	quest_links: [ ]
+	quests: [
+		{
+			id: "1BB57BFBA6343A74"
+			rewards: [
+				{
+					count: 5
+					id: "6BEA448387881555"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "numismatics:sun"
+					}
+					type: "item"
+				}
+				{
+					id: "2319AE7DDCC1C2C7"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				advancement: "born_in_chaos_v1:pumpkin_lord"
+				criterion: ""
+				id: "3C235D7829E4BA88"
+				title: "Lord Pumpkinhead"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			id: "2D9C3C3D032DD125"
+			rewards: [
+				{
+					count: 3
+					id: "38FF8A40BFFEAAD0"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "numismatics:sun"
+					}
+					type: "item"
+				}
+				{
+					id: "709835F2E9709162"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				entity: "born_in_chaos_v1:krampus"
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "born_in_chaos_v1:krampuss_bag"
+				}
+				id: "0FB75311ED3884F6"
+				title: "Krampus"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+	]
+	title: "Born in Chaos"
+}

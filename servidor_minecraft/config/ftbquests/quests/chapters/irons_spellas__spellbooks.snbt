@@ -1,0 +1,145 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "irons_spellas__spellbooks"
+	group: ""
+	icon: {
+		Count: 1
+		ForgeCaps: {
+			"celestisynth:celestisynthitemstackcapabilities": {
+				cs.aquaSkin: 0
+			}
+		}
+		id: "irons_spellbooks:iron_spell_book"
+		tag: {
+			ISB_Spells: {
+				data: [ ]
+				maxSpells: 6
+				mustEquip: 1b
+				spellWheel: 1b
+			}
+		}
+	}
+	id: "26AAC1DEAA106770"
+	order_index: 7
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "irons_spellbooks:iron_spell_book"
+				tag: {
+					ISB_Spells: {
+						data: [ ]
+						maxSpells: 6
+						mustEquip: 1b
+						spellWheel: 1b
+					}
+				}
+			}
+			id: "0AC53E63A084B485"
+			shape: "pentagon"
+			size: 2.0d
+			tasks: [{
+				id: "6E35B5AEE1442CF7"
+				title: "Iron's Spells and Spellbooks"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["10B7164CA5531139"]
+			id: "2CA141630788DD0F"
+			tasks: [{
+				id: "1C73CB29EC4EB67D"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "irons_spellbooks:inscription_table"
+				}
+				type: "item"
+			}]
+			title: "Mesa de Inscripción"
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["2CA141630788DD0F"]
+			id: "4A9819E2D20E83BB"
+			tasks: [{
+				id: "6463D442A60A1A0F"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "irons_spellbooks:scroll_forge"
+				}
+				type: "item"
+			}]
+			title: "Forja de pergaminos"
+			x: -1.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["0AC53E63A084B485"]
+			id: "10B7164CA5531139"
+			tasks: [{
+				id: "14A36A441E6AEB91"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "irons_spellbooks:copper_spell_book"
+					tag: {
+						ISB_Spells: {
+							data: [ ]
+							maxSpells: 5
+							mustEquip: 1b
+							spellWheel: 1b
+						}
+					}
+				}
+				type: "item"
+			}]
+			title: "Diario Endeble"
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["4A9819E2D20E83BB"]
+			id: "6825CE60FBB8DEAC"
+			tasks: [{
+				id: "4ECFC44053038FBF"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "irons_spellbooks:graybeard_staff"
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: -5.5d
+		}
+	]
+	title: "Spells and Spellbooks"
+}
