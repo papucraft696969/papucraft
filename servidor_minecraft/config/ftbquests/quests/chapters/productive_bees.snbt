@@ -114,6 +114,7 @@
 		}
 		{
 			dependencies: ["06819B4DF8799ED4"]
+			description: ["Permite ver las abejas que están dentro del panal."]
 			id: "581E4D12524130FD"
 			rewards: [{
 				id: "45BA23F756E09F98"
@@ -153,6 +154,41 @@
 				"Los Beehemoth se domestican con cubos de miel y se sube su nivel de amistad con más cubos de miel o con agua azucarada."
 			]
 			id: "028732CA00AB377C"
+			rewards: [
+				{
+					count: 5
+					id: "6F523EC30AF81FD8"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "numismatics:sun"
+					}
+					type: "item"
+				}
+				{
+					id: "157971A2A4819CDB"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					count: 2
+					id: "0E0725999B233297"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:enchanted_golden_apple"
+					}
+					type: "item"
+				}
+			]
 			subtitle: "Para siempre y por siempre :vv"
 			tasks: [{
 				advancement: "the_bumblezone:beehemoth/queen_beehemoth"
@@ -166,6 +202,8 @@
 			y: 2.5d
 		}
 		{
+			dependencies: ["581E4D12524130FD"]
+			description: ["Permite convertir los panales generados por las abejas en recursos dependiendo del tipo de panal."]
 			id: "36ECE025715CBC2F"
 			tasks: [{
 				id: "4C18A27864082589"
@@ -406,6 +444,7 @@
 						}
 					}
 					match_nbt: false
+					optional_task: true
 					type: "item"
 				}
 			]
@@ -413,6 +452,8 @@
 			y: -1.5d
 		}
 		{
+			dependencies: ["15E3DBE03103C8F7"]
+			description: ["Permite extraer genes de las abejas que entren al panal sin tener que matarlas."]
 			id: "0582D708F2D0EA53"
 			tasks: [{
 				id: "54BE8C5D2BD48F8A"
@@ -427,10 +468,12 @@
 				}
 				type: "item"
 			}]
-			x: 6.5d
+			x: 4.5d
 			y: -3.5d
 		}
 		{
+			dependencies: ["581E4D12524130FD"]
+			description: ["Aumenta la capacidad de los panales avanzados y permite añadir mejoras."]
 			id: "15E3DBE03103C8F7"
 			tasks: [{
 				id: "285316F50010915D"

@@ -8839,3 +8839,5 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [09Mar2025 23:00:32.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Creative Mode]
 [09Mar2025 23:14:45.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElPerejil24 has made the advancement [Tools of the Trade]
 [09Mar2025 23:14:45.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElPerejil24 has completed the challenge [Premium!]
+[09Mar2025 23:30:13.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Survival Mode]
+[09Mar2025 23:30:16.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Spectator Mode]
