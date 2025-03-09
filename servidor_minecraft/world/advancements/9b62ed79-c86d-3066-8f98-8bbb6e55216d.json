@@ -53,6 +53,12 @@
     },
     "done": false
   },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2025-03-09 22:26:49 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_the_recipe": "2025-03-09 21:07:34 +0000"
@@ -341,6 +347,12 @@
     },
     "done": true
   },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2025-03-09 22:26:09 +0000"
+    },
+    "done": true
+  },
   "numismatics:root": {
     "criteria": {
       "0": "2025-03-09 21:07:34 +0000"
@@ -362,6 +374,12 @@
   "irons_spellbooks:grant_patchouli": {
     "criteria": {
       "tick": "2025-03-09 21:07:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-03-09 22:26:09 +0000"
     },
     "done": true
   },
