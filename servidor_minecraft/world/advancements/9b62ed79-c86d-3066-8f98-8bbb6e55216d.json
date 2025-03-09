@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-03-09 22:20:48 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-03-09 21:07:34 +0000"
@@ -286,7 +292,9 @@
     "criteria": {
       "minecraft:dark_forest": "2025-03-09 21:07:37 +0000",
       "minecraft:river": "2025-03-09 21:24:56 +0000",
+      "atmospheric:atmospheric:laurel_forest": "2025-03-09 22:20:20 +0000",
       "minecraft:forest": "2025-03-09 21:22:01 +0000",
+      "minecraft:meadow": "2025-03-09 22:20:27 +0000",
       "minecraft:plains": "2025-03-09 21:11:16 +0000"
     },
     "done": false
