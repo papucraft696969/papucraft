@@ -8730,3 +8730,19 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [09Mar2025 21:07:34.504] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ElPerejil24
 [09Mar2025 21:07:34.509] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9b62ed79-c86d-3066-8f98-8bbb6e55216d was loaded
 [09Mar2025 21:07:35.718] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
+[09Mar2025 21:07:58.531] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7838ms or 156 ticks behind
+[09Mar2025 21:08:15.798] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2305ms or 46 ticks behind
+[09Mar2025 21:08:45.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[09Mar2025 21:08:45.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /op ElPerejil24<--[HERE]
+[09Mar2025 21:09:24.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made ElPerejil24 a server operator
+[09Mar2025 21:09:30.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Creative Mode]
+[09Mar2025 21:09:53.545] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/1267, l='ServerLevel[world]', x=279.50, y=52.00, z=223.50]
+[09Mar2025 21:11:07.921] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[09Mar2025 21:11:08.020] [Server thread/INFO] [naturescompass/]: Search succeeded: 724 radius, 120 samples
+[09Mar2025 21:11:15.954] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6111ms or 122 ticks behind
+[09Mar2025 21:11:34.629] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElPerejil24 moved too quickly! -6.024115739360809,-1.0784000015258783,-7.989251514849116
+[09Mar2025 21:11:34.664] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3021ms or 60 ticks behind
+[09Mar2025 21:12:12.229] [Worker-Main-13/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=861, y=66, z=943}
+[09Mar2025 21:12:12.230] [Worker-Main-13/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=863, y=66, z=943}
+[09Mar2025 21:12:18.827] [Worker-Main-12/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=863, y=66, z=944}
+[09Mar2025 21:16:20.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElPerejil24 has completed the challenge [Tinker's Citadel]

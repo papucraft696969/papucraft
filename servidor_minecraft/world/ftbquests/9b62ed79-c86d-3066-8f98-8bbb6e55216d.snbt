@@ -1,0 +1,16 @@
+{
+	version: 1
+	uuid: "9b62ed79c86d30668f988bbb6e55216d"
+	name: "ElPerejil24#9b62ed79"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: {
+		9b62ed79c86d30668f988bbb6e55216d: {
+			can_edit: 1b
+		}
+	}
+}
