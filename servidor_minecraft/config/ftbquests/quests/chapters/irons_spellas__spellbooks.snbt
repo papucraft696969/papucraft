@@ -72,7 +72,34 @@
 		}
 		{
 			dependencies: ["10B7164CA5531139"]
+			description: ["Se puede craftear o encontrar en estructuras. Permite colocar y quitar &6pergaminos&r en un &9libro de hechizos&r."]
 			id: "2CA141630788DD0F"
+			rewards: [{
+				id: "0B047489609AECDC"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "irons_spellbooks:scroll"
+					tag: {
+						ISB_Spells: {
+							data: [{
+								id: "irons_spellbooks:firebolt"
+								index: 0
+								level: 1
+								locked: 1b
+							}]
+							maxSpells: 1
+							mustEquip: 0b
+							spellWheel: 0b
+						}
+					}
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "1C73CB29EC4EB67D"
 				item: {
@@ -92,7 +119,49 @@
 		}
 		{
 			dependencies: ["2CA141630788DD0F"]
+			description: ["Permite crear o mejorar hechizos con la tinta y materiales necesarios. Cada rareza de hechizo necesita una tinta de esa misma rareza o superior para ser mejorado."]
 			id: "4A9819E2D20E83BB"
+			rewards: [
+				{
+					id: "10E5CB889496A9F0"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "irons_spellbooks:common_ink"
+					}
+					type: "item"
+				}
+				{
+					id: "6BB27800BE386976"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "irons_spellbooks:uncommon_ink"
+					}
+					type: "item"
+				}
+				{
+					id: "31A28E89BB14BBBD"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "irons_spellbooks:rare_ink"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "6463D442A60A1A0F"
 				item: {
@@ -112,6 +181,7 @@
 		}
 		{
 			dependencies: ["0AC53E63A084B485"]
+			description: ["Los &9libros de hechizos&r permiten guardar &6pergaminos&r y así poder usarlos sin que se consuman. Los hechizos se pueden lanzar desde un &9libro de hechizos&r con la tecla &o&ev&r&r y se puede seleccionar el hechizo manteniedno la &o&er&r&r y moviendo el &o&eratón&r&r. Los hechizos se pueden lanzar con solo el &6pergamino&r pero este se consumirá al hacerlo, así que es mejor guardarlos. Algunos &9libros de hechizos&r dan mejoras a ciertos hechizos o al jugador, y algunos vienen con uno o varios hechizos ya inscritos que no se pueden remover."]
 			id: "10B7164CA5531139"
 			rewards: [{
 				count: 5
@@ -154,6 +224,7 @@
 		}
 		{
 			dependencies: ["4A9819E2D20E83BB"]
+			description: ["Las varas o cetros permiten lanzar hechizos con el click derecho. Algunas dan mejoras a ciertos tipos de hechizos o al jugador."]
 			id: "6825CE60FBB8DEAC"
 			tasks: [{
 				id: "4ECFC44053038FBF"
