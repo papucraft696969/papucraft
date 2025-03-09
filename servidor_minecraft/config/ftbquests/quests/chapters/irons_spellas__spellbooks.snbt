@@ -239,8 +239,30 @@
 				}
 				type: "item"
 			}]
+			title: "Cetro de Barbagris"
 			x: -0.5d
 			y: -5.5d
+		}
+		{
+			dependencies: ["6825CE60FBB8DEAC"]
+			description: ["Permite imbuir hechizos en armas, el hechizo se lanza normla con la &o&ev&r&r."]
+			id: "2C6AEDDE6DB22A61"
+			tasks: [{
+				id: "2C7FB06D732DF982"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "irons_spellbooks:arcane_anvil"
+				}
+				type: "item"
+			}]
+			title: "Yunque Arcano"
+			x: 1.0d
+			y: -6.5d
 		}
 	]
 	title: "Spells and Spellbooks"
