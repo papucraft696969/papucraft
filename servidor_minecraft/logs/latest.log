@@ -8754,3 +8754,6 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [09Mar2025 21:23:33.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElPerejil24 has made the advancement ['X' Marks the Spot]
 [09Mar2025 21:24:01.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Spectator Mode]
 [09Mar2025 21:24:55.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Creative Mode]
+[09Mar2025 21:31:09.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Gamerule doDaylightCycle is now set to: false]
+[09Mar2025 21:31:13.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set the time to 1000]
+[09Mar2025 21:31:22.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Gamerule mediumcoreMode is now set to: true]
