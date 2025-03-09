@@ -8758,3 +8758,10 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [09Mar2025 21:31:13.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set the time to 1000]
 [09Mar2025 21:31:22.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Gamerule mediumcoreMode is now set to: true]
 [09Mar2025 21:50:18.461] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: ElPerejil24/puente.nbt
+[09Mar2025 22:06:02.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Spectator Mode]
+[09Mar2025 22:07:00.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Creative Mode]
+[09Mar2025 22:07:16.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Spectator Mode]
+[09Mar2025 22:07:44.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Creative Mode]
+[09Mar2025 22:08:57.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Spectator Mode]
+[09Mar2025 22:09:04.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Creative Mode]
+[09Mar2025 22:09:50.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElPerejil24 has made the advancement [Monster Hunter]
