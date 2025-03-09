@@ -8757,3 +8757,4 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [09Mar2025 21:31:09.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Gamerule doDaylightCycle is now set to: false]
 [09Mar2025 21:31:13.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set the time to 1000]
 [09Mar2025 21:31:22.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Gamerule mediumcoreMode is now set to: true]
+[09Mar2025 21:50:18.461] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: ElPerejil24/puente.nbt
