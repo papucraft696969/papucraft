@@ -133,6 +133,12 @@
     },
     "done": true
   },
+  "idas:fishermans_lodge": {
+    "criteria": {
+      "in_fishermans_lodge": "2025-03-10 00:38:57 +0000"
+    },
+    "done": true
+  },
   "meetyourfight:main/root": {
     "criteria": {
       "killed_something": "2025-03-09 23:58:43 +0000"

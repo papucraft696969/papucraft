@@ -12,3 +12,8 @@
 [10Mar2025 00:25:31.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Creative Mode]
 [10Mar2025 00:27:34.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Survival Mode]
 [10Mar2025 00:27:48.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Creative Mode]
+[10Mar2025 00:38:57.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElPerejil24 has made the advancement [Fisherman's Lodge]
+[10Mar2025 00:40:01.858] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElPerejil24 lost connection: Disconnected
+[10Mar2025 00:40:01.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElPerejil24 left the game
+[10Mar2025 00:40:01.863] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9b62ed79-c86d-3066-8f98-8bbb6e55216d was unloaded
+[10Mar2025 00:40:01.867] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ElPerejil24
