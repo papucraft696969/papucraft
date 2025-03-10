@@ -223,6 +223,7 @@
 			y: -1.5d
 		}
 		{
+			dependencies: ["36ECE025715CBC2F"]
 			description: ["El botellero permite poner la miel en botellas. Si se ponen botellas en el inventario del botellero y un piston con un bloque de espacio hacia arriba, se puede aplastar una abeja para obtener material de abeja aplastada, el cual al ponerlo en una centrifugadora dará sus genes."]
 			id: "764E87FA790C5986"
 			tasks: [
@@ -450,11 +451,14 @@
 					type: "item"
 				}
 			]
-			x: 8.5d
+			x: 6.5d
 			y: -1.5d
 		}
 		{
-			dependencies: ["15E3DBE03103C8F7"]
+			dependencies: [
+				"15E3DBE03103C8F7"
+				"764E87FA790C5986"
+			]
 			description: ["Permite extraer genes de las abejas que entren al panal sin tener que matarlas."]
 			id: "0582D708F2D0EA53"
 			tasks: [{
@@ -470,8 +474,8 @@
 				}
 				type: "item"
 			}]
-			x: 4.5d
-			y: -3.5d
+			x: 6.0d
+			y: -3.0d
 		}
 		{
 			dependencies: ["581E4D12524130FD"]
@@ -491,10 +495,14 @@
 				type: "item"
 			}]
 			title: "Caja de expansión"
-			x: 2.5d
+			x: 4.5d
 			y: -3.5d
 		}
 		{
+			dependencies: [
+				"55F18C221EF54F0B"
+				"36ECE025715CBC2F"
+			]
 			description: ["Funciona igual que la centrifugadora normal pero es más rápida si se le da energía."]
 			id: "7A998B8CD2AFB68E"
 			tasks: [{
@@ -510,10 +518,11 @@
 				}
 				type: "item"
 			}]
-			x: 6.5d
-			y: 0.5d
+			x: 5.5d
+			y: -0.5d
 		}
 		{
+			dependencies: ["581E4D12524130FD"]
 			description: ["Usa miel para generar energía que puede usarse con otras maquinas."]
 			id: "55F18C221EF54F0B"
 			tasks: [{
@@ -529,10 +538,11 @@
 				}
 				type: "item"
 			}]
-			x: 6.5d
-			y: -1.5d
+			x: 4.5d
+			y: 0.5d
 		}
 		{
+			dependencies: ["764E87FA790C5986"]
 			description: ["Permite guardar los genes para que no ocupen tanto espacio."]
 			id: "06F630D3EF5E01DB"
 			tasks: [{
@@ -548,8 +558,89 @@
 				}
 				type: "item"
 			}]
-			x: 10.5d
+			x: 8.5d
 			y: -1.5d
+		}
+		{
+			dependencies: ["55F18C221EF54F0B"]
+			id: "3DEBFE9991F8A6D1"
+			tasks: [{
+				id: "7C2A0A8118FC353C"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "productivebees:breeding_chamber"
+				}
+				type: "item"
+			}]
+			title: "Cámara de reproducción"
+			x: 6.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["3DEBFE9991F8A6D1"]
+			id: "1A306BBF75217679"
+			tasks: [{
+				id: "684DC9607ED75052"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "productivebees:incubator"
+				}
+				type: "item"
+			}]
+			x: 8.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["581E4D12524130FD"]
+			description: ["Atrapa a las abejas que tenga cerca, se le pueden poner mejoras para especificar que tipo de abeja."]
+			id: "66EDD26614360130"
+			tasks: [{
+				id: "5F2DD1A96AC2A32D"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "productivebees:catcher"
+				}
+				type: "item"
+			}]
+			title: "Atrapador"
+			x: 2.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["55F18C221EF54F0B"]
+			description: ["Funciona igual que la centrifugadora mecanica pero convierte la cera en miel automáticamente."]
+			id: "126EB79ED6C41248"
+			tasks: [{
+				id: "2B7C608E0E74042B"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "productivebees:heated_centrifuge"
+				}
+				type: "item"
+			}]
+			title: "Centrifugadora calentada"
+			x: 5.5d
+			y: 1.5d
 		}
 	]
 	title: "Productive Bees"
