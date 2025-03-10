@@ -84,19 +84,35 @@
 			dependencies: ["355BB0FD3938AA79"]
 			description: ["Es el material básico con el que se hacen las maquinas y componentes más importantes del mod."]
 			id: "0DA2BBB11F658EA7"
-			rewards: [{
-				id: "64E4F4186E78D44C"
-				item: {
-					Count: 1
-					ForgeCaps: {
-						"celestisynth:celestisynthitemstackcapabilities": {
-							cs.aquaSkin: 0
+			rewards: [
+				{
+					id: "64E4F4186E78D44C"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
 						}
+						id: "create:wrench"
 					}
-					id: "create:wrench"
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					count: 16
+					id: "2F0073AD41DA7A0A"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "numismatics:cog"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				count: 64L
 				id: "1CFD4355DE261DC5"
@@ -372,19 +388,35 @@
 			dependencies: ["6EB46CA29CBDF8C0"]
 			description: ["Se consigue dandole &o&eclick derecho&r&r a un blaze con un blaze burner vacío."]
 			id: "2C8804254B3CDFD9"
-			rewards: [{
-				id: "298CF0F2F8684BF9"
-				item: {
-					Count: 1
-					ForgeCaps: {
-						"celestisynth:celestisynthitemstackcapabilities": {
-							cs.aquaSkin: 0
+			rewards: [
+				{
+					id: "298CF0F2F8684BF9"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
 						}
+						id: "create:blaze_cake"
 					}
-					id: "create:blaze_cake"
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					count: 4
+					id: "4A8AECCE85DBED22"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "numismatics:crown"
+					}
+					type: "item"
+				}
+			]
 			size: 1.5d
 			tasks: [{
 				id: "7A7379C67870237B"
@@ -569,6 +601,19 @@
 							}
 						}
 						id: "create:andesite_alloy"
+					}
+					type: "item"
+				}
+				{
+					id: "7B960DC90C4581FF"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "numismatics:sun"
 					}
 					type: "item"
 				}
@@ -759,6 +804,20 @@
 					}
 					type: "item"
 				}
+				{
+					count: 4
+					id: "0E7B89DFADC4CE99"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "numismatics:crown"
+					}
+					type: "item"
+				}
 			]
 			tasks: [
 				{
@@ -862,22 +921,38 @@
 				id: "create:steam_engine"
 			}
 			id: "0835A37F74B3BAB8"
-			rewards: [{
-				id: "2C9CDD5C53555FEC"
-				item: {
-					Count: 1
-					ForgeCaps: {
-						"celestisynth:celestisynthitemstackcapabilities": {
-							cs.aquaSkin: 0
+			rewards: [
+				{
+					id: "2C9CDD5C53555FEC"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:potato_cannon"
+						tag: {
+							Damage: 0
 						}
 					}
-					id: "create:potato_cannon"
-					tag: {
-						Damage: 0
-					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					count: 4
+					id: "2215C04623730F53"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "numismatics:crown"
+					}
+					type: "item"
+				}
+			]
 			shape: "diamond"
 			size: 1.5d
 			tasks: [
@@ -1034,6 +1109,20 @@
 					}
 					type: "item"
 				}
+				{
+					count: 4
+					id: "07BF7D1A4E676E75"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "numismatics:crown"
+					}
+					type: "item"
+				}
 			]
 			tasks: [
 				{
@@ -1157,20 +1246,35 @@
 			dependencies: ["715BDF6986633033"]
 			description: ["Craftean itema autamáticamente cuando tienen la forma y orden correcto."]
 			id: "7AF782EBCF3888A9"
-			rewards: [{
-				count: 8
-				id: "55183D1037981042"
-				item: {
-					Count: 1
-					ForgeCaps: {
-						"celestisynth:celestisynthitemstackcapabilities": {
-							cs.aquaSkin: 0
+			rewards: [
+				{
+					count: 8
+					id: "55183D1037981042"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
 						}
+						id: "create:crafter_slot_cover"
 					}
-					id: "create:crafter_slot_cover"
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "2DFE4803A270B385"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "numismatics:sun"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				count: 21L
 				id: "228ACFE9F62F67CC"
@@ -1435,6 +1539,19 @@
 							}
 						}
 						id: "create:red_seat"
+					}
+					type: "item"
+				}
+				{
+					id: "4CC59C1FF7D8AAA2"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "numismatics:sun"
 					}
 					type: "item"
 				}

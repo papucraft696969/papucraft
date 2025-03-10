@@ -254,20 +254,36 @@
 				id: "productivebees:bottler"
 			}
 			id: "764E87FA790C5986"
-			rewards: [{
-				count: 16
-				id: "067AFE64E26E5E97"
-				item: {
-					Count: 1
-					ForgeCaps: {
-						"celestisynth:celestisynthitemstackcapabilities": {
-							cs.aquaSkin: 0
+			rewards: [
+				{
+					count: 16
+					id: "067AFE64E26E5E97"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
 						}
+						id: "minecraft:glass_bottle"
 					}
-					id: "minecraft:glass_bottle"
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					count: 16
+					id: "309B45C19FAE32C3"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "numismatics:cog"
+					}
+					type: "item"
+				}
+			]
 			shape: "hexagon"
 			size: 1.2d
 			tasks: [
@@ -505,19 +521,35 @@
 			]
 			description: ["Permite extraer genes de las abejas que entren al panal sin tener que matarlas."]
 			id: "0582D708F2D0EA53"
-			rewards: [{
-				id: "41B5759197909BEB"
-				item: {
-					Count: 1
-					ForgeCaps: {
-						"celestisynth:celestisynthitemstackcapabilities": {
-							cs.aquaSkin: 0
+			rewards: [
+				{
+					id: "41B5759197909BEB"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
 						}
+						id: "productivebees:upgrade_time"
 					}
-					id: "productivebees:upgrade_time"
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					count: 32
+					id: "4EE8FC15C273BD6C"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "numismatics:cog"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "54BE8C5D2BD48F8A"
 				item: {
@@ -576,6 +608,25 @@
 			]
 			description: ["Funciona igual que la centrifugadora normal pero es más rápida si se le da energía."]
 			id: "7A998B8CD2AFB68E"
+			rewards: [{
+				count: 2
+				id: "365E66203AF6D376"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "productivebees:configurable_honeycomb"
+					tag: {
+						EntityTag: {
+							type: "productivebees:diamond"
+						}
+					}
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "0B2840E9419942EE"
 				item: {
@@ -596,19 +647,35 @@
 			dependencies: ["581E4D12524130FD"]
 			description: ["Usa miel para generar energía que puede usarse con otras maquinas."]
 			id: "55F18C221EF54F0B"
-			rewards: [{
-				id: "72D78786A7B49FFA"
-				item: {
-					Count: 1
-					ForgeCaps: {
-						"celestisynth:celestisynthitemstackcapabilities": {
-							cs.aquaSkin: 0
+			rewards: [
+				{
+					id: "72D78786A7B49FFA"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
 						}
+						id: "create:honey_bucket"
 					}
-					id: "create:honey_bucket"
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					count: 4
+					id: "0AC3F676522ED7F9"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "numismatics:crown"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "0D85CEC3105E7FE1"
 				item: {
@@ -699,20 +766,36 @@
 			dependencies: ["55F18C221EF54F0B"]
 			description: ["Permite convertir abejas bebés en adultas. Si se pone un huevo normal y el gen de una abeja en especifico se puede crear un huevo de esa abeja."]
 			id: "1A306BBF75217679"
-			rewards: [{
-				count: 16
-				id: "0E47AB9EE42A010F"
-				item: {
-					Count: 1
-					ForgeCaps: {
-						"celestisynth:celestisynthitemstackcapabilities": {
-							cs.aquaSkin: 0
+			rewards: [
+				{
+					count: 16
+					id: "0E47AB9EE42A010F"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
 						}
+						id: "productivebees:honey_treat"
 					}
-					id: "productivebees:honey_treat"
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					count: 16
+					id: "1EA6C917CEDBEDB0"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "numismatics:cog"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "684DC9607ED75052"
 				item: {
@@ -768,6 +851,25 @@
 			dependencies: ["55F18C221EF54F0B"]
 			description: ["Funciona igual que la centrifugadora mecanica pero convierte la cera en miel automáticamente."]
 			id: "126EB79ED6C41248"
+			rewards: [{
+				count: 16
+				id: "1DC0DA35FE2FCD2A"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "productivebees:configurable_honeycomb"
+					tag: {
+						EntityTag: {
+							type: "productivebees:experience"
+						}
+					}
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "2B7C608E0E74042B"
 				item: {

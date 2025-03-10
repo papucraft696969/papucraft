@@ -71,7 +71,7 @@
 			y: 0.0d
 		}
 		{
-			dependencies: ["10B7164CA5531139"]
+			dependencies: ["0AC53E63A084B485"]
 			description: ["Se puede craftear o encontrar en estructuras. Permite colocar y quitar &6pergaminos&r en un &9libro de hechizos&r."]
 			id: "2CA141630788DD0F"
 			rewards: [{
@@ -114,11 +114,10 @@
 				type: "item"
 			}]
 			title: "Mesa de Inscripción"
-			x: 0.0d
-			y: -3.0d
+			x: 1.0d
+			y: -1.5d
 		}
 		{
-			dependencies: ["2CA141630788DD0F"]
 			description: ["Permite crear o mejorar hechizos con la tinta y materiales necesarios. Cada rareza de hechizo necesita una tinta de esa misma rareza o superior para ser mejorado."]
 			id: "4A9819E2D20E83BB"
 			rewards: [
@@ -175,12 +174,11 @@
 				}
 				type: "item"
 			}]
-			title: "Forja de pergaminos"
 			x: -1.5d
 			y: -4.0d
 		}
 		{
-			dependencies: ["0AC53E63A084B485"]
+			dependencies: ["2CA141630788DD0F"]
 			description: ["Los &9libros de hechizos&r permiten guardar &6pergaminos&r y así poder usarlos sin que se consuman. Los hechizos se pueden lanzar desde un &9libro de hechizos&r con la tecla &o&ev&r&r y se puede seleccionar el hechizo manteniedno la &o&er&r&r y moviendo el &o&eratón&r&r. Los hechizos se pueden lanzar con solo el &6pergamino&r pero este se consumirá al hacerlo, así que es mejor guardarlos. Algunos &9libros de hechizos&r dan mejoras a ciertos hechizos o al jugador, y algunos vienen con uno o varios hechizos ya inscritos que no se pueden remover."]
 			id: "10B7164CA5531139"
 			rewards: [{
@@ -218,9 +216,8 @@
 				}
 				type: "item"
 			}]
-			title: "Diario Endeble"
-			x: 1.0d
-			y: -1.5d
+			x: 0.0d
+			y: -3.0d
 		}
 		{
 			dependencies: ["4A9819E2D20E83BB"]
@@ -239,7 +236,6 @@
 				}
 				type: "item"
 			}]
-			title: "Cetro de Barbagris"
 			x: -0.5d
 			y: -5.5d
 		}

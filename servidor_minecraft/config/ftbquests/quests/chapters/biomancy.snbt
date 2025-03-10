@@ -577,6 +577,20 @@
 			description: ["Son relativamente fáciles de hacer y son una buena fuente de comida."]
 			id: "29D923E8D14FB1D5"
 			optional: true
+			rewards: [{
+				count: 2
+				id: "3834E2D9549B7AAE"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "numismatics:crown"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				count: 32L
 				id: "648066747B234B81"
