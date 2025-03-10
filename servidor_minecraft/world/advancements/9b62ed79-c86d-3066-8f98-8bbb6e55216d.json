@@ -41,6 +41,18 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-03-09 23:58:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-03-09 23:58:43 +0000"
+    },
+    "done": false
+  },
   "idas:tinkers_citadel": {
     "criteria": {
       "in_tinkers_citadel": "2025-03-09 23:31:10 +0000"
@@ -50,6 +62,12 @@
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-03-09 23:31:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-03-09 23:58:43 +0000"
     },
     "done": true
   },
@@ -105,6 +123,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-03-09 23:45:57 +0000"
+    },
+    "done": true
+  },
+  "meetyourfight:main/root": {
+    "criteria": {
+      "killed_something": "2025-03-09 23:58:43 +0000"
     },
     "done": true
   },

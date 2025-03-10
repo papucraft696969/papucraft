@@ -4,9 +4,15 @@
 	name: "ElPerejil24#9b62ed79"
 	lock: false
 	rewards_blocked: false
-	task_progress: { }
+	task_progress: {
+		0DFCA60A4FF03EBD: 2
+	}
 	started: {
 		0000000000000001: 1741558243557L
+		1BCA0CB09BB444E6: 1741564723057L
+		0DFCA60A4FF03EBD: 1741564723642L
+		2C9EC4F3118926AF: 1741564723642L
+		345BA7102444D712: 1741564723642L
 	}
 	completed: { }
 	claimed_rewards: { }
