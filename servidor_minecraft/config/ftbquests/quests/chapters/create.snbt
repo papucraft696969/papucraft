@@ -84,34 +84,19 @@
 			dependencies: ["355BB0FD3938AA79"]
 			description: ["Es el material básico con el que se hacen las maquinas y componentes más importantes del mod."]
 			id: "0DA2BBB11F658EA7"
-			rewards: [
-				{
-					id: "64E4F4186E78D44C"
-					item: {
-						Count: 1
-						ForgeCaps: {
-							"celestisynth:celestisynthitemstackcapabilities": {
-								cs.aquaSkin: 0
-							}
+			rewards: [{
+				id: "64E4F4186E78D44C"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
 						}
-						id: "create:wrench"
 					}
-					type: "item"
+					id: "create:wrench"
 				}
-				{
-					id: "40677C49B9EDFD79"
-					item: {
-						Count: 1
-						ForgeCaps: {
-							"celestisynth:celestisynthitemstackcapabilities": {
-								cs.aquaSkin: 0
-							}
-						}
-						id: "create:brown_toolbox"
-					}
-					type: "item"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				count: 64L
 				id: "1CFD4355DE261DC5"
@@ -573,6 +558,20 @@
 					}
 					type: "item"
 				}
+				{
+					count: 64
+					id: "29127A8F41123E55"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:andesite_alloy"
+					}
+					type: "item"
+				}
 			]
 			shape: "gear"
 			size: 1.5d
@@ -668,6 +667,36 @@
 			dependencies: ["16CE758B49206D2F"]
 			description: ["Almacena una gran cantidad de items pero no se puede acceder a su inventario. Los items tiene que ser introducidos y sacados con embudos o parecidos."]
 			id: "34B0ED944826FD93"
+			rewards: [
+				{
+					count: 2
+					id: "5F797ABE74A4405C"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:andesite_funnel"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "2F22746F0BE2D80D"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:brass_funnel"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				count: 9L
 				id: "224F0317CB0C4C4F"
@@ -699,20 +728,38 @@
 				id: "create:copper_casing"
 			}
 			id: "27104A392A4ADAAB"
-			rewards: [{
-				count: 16
-				id: "5DF3C976BFB261E8"
-				item: {
-					Count: 1
-					ForgeCaps: {
-						"celestisynth:celestisynthitemstackcapabilities": {
-							cs.aquaSkin: 0
+			rewards: [
+				{
+					count: 16
+					id: "5DF3C976BFB261E8"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:copper_ingot"
+					}
+					type: "item"
+				}
+				{
+					id: "459B70DD16D5314B"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:copper_backtank"
+						tag: {
+							Air: 900
 						}
 					}
-					id: "minecraft:copper_ingot"
+					type: "item"
 				}
-				type: "item"
-			}]
+			]
 			tasks: [
 				{
 					count: 9L
@@ -815,6 +862,22 @@
 				id: "create:steam_engine"
 			}
 			id: "0835A37F74B3BAB8"
+			rewards: [{
+				id: "2C9CDD5C53555FEC"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:potato_cannon"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
 			shape: "diamond"
 			size: 1.5d
 			tasks: [
@@ -958,6 +1021,19 @@
 					}
 					type: "item"
 				}
+				{
+					id: "3A37A254E81A87EE"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:red_seat"
+					}
+					type: "item"
+				}
 			]
 			tasks: [
 				{
@@ -1081,6 +1157,20 @@
 			dependencies: ["715BDF6986633033"]
 			description: ["Craftean itema autamáticamente cuando tienen la forma y orden correcto."]
 			id: "7AF782EBCF3888A9"
+			rewards: [{
+				count: 8
+				id: "55183D1037981042"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:crafter_slot_cover"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				count: 21L
 				id: "228ACFE9F62F67CC"
@@ -1103,6 +1193,20 @@
 			dependencies: ["16CE758B49206D2F"]
 			description: ["Se usan para craftera maquinas más avanzadas. Se hacen con quarzo rosa pulido, se obtiene al dar click derecho con una lija en una mano y el quarzo rosa en la otra."]
 			id: "6EB46CA29CBDF8C0"
+			rewards: [{
+				count: 8
+				id: "4EEAC5E980299A43"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:polished_rose_quartz"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				count: 5L
 				id: "0E09F5DDA9A6EA5D"
@@ -1275,6 +1379,7 @@
 			description: ["Sirve para hacer otros tipos de cañones, se hace presioando hierro en una cuenca calentada."]
 			id: "400544F35AFC29C7"
 			tasks: [{
+				count: 8L
 				id: "392870CBB500B73F"
 				item: {
 					Count: 1
@@ -1305,20 +1410,35 @@
 				tag: { }
 			}
 			id: "3CFB4B5C1317EF1A"
-			rewards: [{
-				id: "392235BE2F37C4D3"
-				item: {
-					Count: 1
-					ForgeCaps: {
-						"celestisynth:celestisynthitemstackcapabilities": {
-							cs.aquaSkin: 0
+			rewards: [
+				{
+					id: "392235BE2F37C4D3"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
 						}
+						id: "createbigcannons:autocannon_ammo_container"
+						tag: { }
 					}
-					id: "createbigcannons:autocannon_ammo_container"
-					tag: { }
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "7B4C2B7E66FD54CF"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:red_seat"
+					}
+					type: "item"
+				}
+			]
 			tasks: [
 				{
 					id: "691471D64149317E"

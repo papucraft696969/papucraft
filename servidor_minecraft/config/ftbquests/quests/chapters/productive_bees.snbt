@@ -80,7 +80,7 @@
 			}
 			id: "63B6C70CB55BBDEA"
 			rewards: [{
-				id: "13389227472BC58B"
+				id: "10A6117D4F4D1AAC"
 				item: {
 					Count: 1
 					ForgeCaps: {
@@ -88,7 +88,7 @@
 							cs.aquaSkin: 0
 						}
 					}
-					id: "the_bumblezone:beehemoth_spawn_egg"
+					id: "productivebees:sturdy_bee_cage"
 				}
 				type: "item"
 			}]
@@ -206,6 +206,25 @@
 			dependencies: ["581E4D12524130FD"]
 			description: ["Permite convertir los panales generados por las abejas en recursos dependiendo del tipo de panal."]
 			id: "36ECE025715CBC2F"
+			rewards: [{
+				count: 5
+				id: "1AB881FF9C5F7EA9"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "productivebees:configurable_honeycomb"
+					tag: {
+						EntityTag: {
+							type: "productivebees:obsidian"
+						}
+					}
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "4C18A27864082589"
 				item: {
@@ -235,6 +254,20 @@
 				id: "productivebees:bottler"
 			}
 			id: "764E87FA790C5986"
+			rewards: [{
+				count: 16
+				id: "067AFE64E26E5E97"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:glass_bottle"
+				}
+				type: "item"
+			}]
 			shape: "hexagon"
 			size: 1.2d
 			tasks: [
@@ -472,6 +505,19 @@
 			]
 			description: ["Permite extraer genes de las abejas que entren al panal sin tener que matarlas."]
 			id: "0582D708F2D0EA53"
+			rewards: [{
+				id: "41B5759197909BEB"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "productivebees:upgrade_time"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "54BE8C5D2BD48F8A"
 				item: {
@@ -493,6 +539,19 @@
 			dependencies: ["581E4D12524130FD"]
 			description: ["Aumenta la capacidad de los panales avanzados y permite añadir mejoras."]
 			id: "15E3DBE03103C8F7"
+			rewards: [{
+				id: "0325F799653C593B"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "productivebees:upgrade_time"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "285316F50010915D"
 				item: {
@@ -537,6 +596,19 @@
 			dependencies: ["581E4D12524130FD"]
 			description: ["Usa miel para generar energía que puede usarse con otras maquinas."]
 			id: "55F18C221EF54F0B"
+			rewards: [{
+				id: "72D78786A7B49FFA"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:honey_bucket"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "0D85CEC3105E7FE1"
 				item: {
@@ -557,6 +629,20 @@
 			dependencies: ["764E87FA790C5986"]
 			description: ["Permite guardar los genes para que no ocupen tanto espacio. Los genes se pueden combinar con dulces de miel y así darlselo a una abeja para que tome ese gen."]
 			id: "06F630D3EF5E01DB"
+			rewards: [{
+				count: 32
+				id: "78536DC8A1D2DA42"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "productivebees:honey_treat"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "1687E7D811443007"
 				item: {
@@ -578,6 +664,20 @@
 			dependencies: ["55F18C221EF54F0B"]
 			description: ["Permite reproducir abejas sin tener que hacerlo manualmente."]
 			id: "3DEBFE9991F8A6D1"
+			rewards: [{
+				count: 16
+				id: "06E4C1471743FAA9"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "productivebees:honey_treat"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "7C2A0A8118FC353C"
 				item: {
@@ -599,6 +699,20 @@
 			dependencies: ["55F18C221EF54F0B"]
 			description: ["Permite convertir abejas bebés en adultas. Si se pone un huevo normal y el gen de una abeja en especifico se puede crear un huevo de esa abeja."]
 			id: "1A306BBF75217679"
+			rewards: [{
+				count: 16
+				id: "0E47AB9EE42A010F"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "productivebees:honey_treat"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "684DC9607ED75052"
 				item: {
@@ -619,6 +733,20 @@
 			dependencies: ["581E4D12524130FD"]
 			description: ["Atrapa a las abejas que tenga cerca, se le pueden poner mejoras para especificar que tipo de abeja."]
 			id: "66EDD26614360130"
+			rewards: [{
+				count: 16
+				id: "36F9687372C46DDC"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "productivebees:honey_treat"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "5F2DD1A96AC2A32D"
 				item: {
