@@ -134,6 +134,63 @@
 			dependencies: ["4E543B644EF54B87"]
 			description: ["Las maquinas con las que se hacen la mayoría de recetas del mod."]
 			id: "16CE758B49206D2F"
+			rewards: [
+				{
+					count: 16
+					id: "2C85F4B25E7B1F8E"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:gearbox"
+					}
+					type: "item"
+				}
+				{
+					count: 16
+					id: "593BB072D9E7C713"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:cogwheel"
+					}
+					type: "item"
+				}
+				{
+					count: 16
+					id: "4C876699629A9D71"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:large_cogwheel"
+					}
+					type: "item"
+				}
+				{
+					id: "7AA70083DDCB8234"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:shaft"
+					}
+					type: "item"
+				}
+			]
 			shape: "gear"
 			size: 1.5d
 			tasks: [
@@ -240,6 +297,19 @@
 							}
 						}
 						id: "create:millstone"
+					}
+					type: "item"
+				}
+				{
+					id: "017F2553BEC92521"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:mechanical_saw"
 					}
 					type: "item"
 				}
@@ -350,6 +420,15 @@
 		{
 			dependencies: ["2C8804254B3CDFD9"]
 			description: ["Sirve para hacer maquinas más avanzadas."]
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "create:brass_ingot"
+			}
 			id: "715BDF6986633033"
 			tasks: [
 				{
@@ -963,6 +1042,17 @@
 			y: -2.0d
 		}
 		{
+			dependencies: ["16CE758B49206D2F"]
+			description: ["Para construir uno se debe hacer la estructura del cañon encima de la base, después darle redstone en el icono del martillo para ensamblarlo. Los cañones se pueden apuntar con energía rotacional y se disparan con una señal de redstone en el otro icono. La munición del cañon se puede insertar con la cabeza de baqueta y sacar con la cabeza de sacatrapos, o con un piston mecánico."]
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "createbigcannons:wrought_iron_cannon_chamber"
+			}
 			id: "44056FADABC36CE7"
 			rewards: [
 				{
@@ -990,6 +1080,32 @@
 						}
 						id: "createbigcannons:solid_shot"
 						tag: { }
+					}
+					type: "item"
+				}
+				{
+					id: "3FE0E47BD98567A6"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "createbigcannons:ram_head"
+					}
+					type: "item"
+				}
+				{
+					id: "3D57A299962621DB"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "createbigcannons:worm_head"
 					}
 					type: "item"
 				}
@@ -1036,8 +1152,101 @@
 					type: "item"
 				}
 			]
+			title: "Cañones"
 			x: 6.0d
 			y: -3.5d
+		}
+		{
+			dependencies: ["44056FADABC36CE7"]
+			id: "400544F35AFC29C7"
+			tasks: [{
+				id: "392870CBB500B73F"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "createbigcannons:cast_iron_ingot"
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["400544F35AFC29C7"]
+			description: ["Los cañones automáticos se ensamblan y pueden ser controlados de la misma forma que los normales, pero si se le da &o&eshift+click derecho&r&r con una llave inglesa se le puede poner un asiento para controlarlo manualmente."]
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "createbigcannons:autocannon_ammo_container"
+				tag: { }
+			}
+			id: "3CFB4B5C1317EF1A"
+			rewards: [{
+				id: "392235BE2F37C4D3"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "createbigcannons:autocannon_ammo_container"
+					tag: { }
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "691471D64149317E"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "createbigcannons:cast_iron_autocannon_breech"
+					}
+					type: "item"
+				}
+				{
+					id: "4035BD30A70E77DE"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "createbigcannons:cast_iron_autocannon_recoil_spring"
+					}
+					type: "item"
+				}
+				{
+					id: "411F2B8E6B543DAC"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "createbigcannons:cast_iron_autocannon_barrel"
+					}
+					type: "item"
+				}
+			]
+			title: "Cañones automáticos"
+			x: 6.0d
+			y: -7.5d
 		}
 	]
 	title: "Create"
