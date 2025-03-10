@@ -474,6 +474,7 @@
 				}
 				type: "item"
 			}]
+			title: "Muestreador de genes"
 			x: 6.0d
 			y: -3.0d
 		}
@@ -563,6 +564,7 @@
 		}
 		{
 			dependencies: ["55F18C221EF54F0B"]
+			description: ["Permite reproducir abejas sin tener que hacerlo manualmente."]
 			id: "3DEBFE9991F8A6D1"
 			tasks: [{
 				id: "7C2A0A8118FC353C"
@@ -578,11 +580,12 @@
 				type: "item"
 			}]
 			title: "Cámara de reproducción"
-			x: 6.5d
-			y: 0.5d
+			x: 7.5d
+			y: 1.5d
 		}
 		{
-			dependencies: ["3DEBFE9991F8A6D1"]
+			dependencies: ["55F18C221EF54F0B"]
+			description: ["Permite convertir abejas bebés en adultas. Si se pone un huevo normal y el gen de una abeja en especifico se puede crear un huevo de esa abeja."]
 			id: "1A306BBF75217679"
 			tasks: [{
 				id: "684DC9607ED75052"
@@ -597,8 +600,8 @@
 				}
 				type: "item"
 			}]
-			x: 8.5d
-			y: 0.5d
+			x: 7.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["581E4D12524130FD"]
