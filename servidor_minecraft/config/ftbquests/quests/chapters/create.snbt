@@ -581,7 +581,7 @@
 		}
 		{
 			dependencies: ["16CE758B49206D2F"]
-			description: ["Almacena una gran cantidad de items pero no se puede acceder a su inventario. Los items tiene que ser introducidos y sacados con funnels o parecidos."]
+			description: ["Almacena una gran cantidad de items pero no se puede acceder a su inventario. Los items tiene que ser introducidos y sacados con embudos o parecidos."]
 			id: "34B0ED944826FD93"
 			tasks: [{
 				count: 9L
@@ -829,7 +829,6 @@
 				}
 				type: "item"
 			}]
-			title: "Brazo mecanico"
 			x: 9.5d
 			y: -2.5d
 		}
@@ -982,6 +981,7 @@
 				}
 				type: "item"
 			}]
+			title: "Ensambladores mecánicos"
 			x: 14.0d
 			y: 1.5d
 		}

@@ -3175,3 +3175,8 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [10Mar2025 21:25:05.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElPerejil24 has made the advancement [Shadow Sense]
 [10Mar2025 21:29:04.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Spectator Mode]
 [10Mar2025 21:29:10.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Creative Mode]
+[10Mar2025 21:42:24.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Spectator Mode]
+[10Mar2025 21:42:33.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Creative Mode]
+[10Mar2025 21:43:21.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Spectator Mode]
+[10Mar2025 21:43:44.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Creative Mode]
+[10Mar2025 21:47:31.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Gave 1 [Light] to ElPerejil24]

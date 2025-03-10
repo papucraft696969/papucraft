@@ -143,6 +143,7 @@
 				}
 				type: "item"
 			}]
+			title: "Apiario avanzado"
 			x: 2.5d
 			y: -1.5d
 		}
@@ -488,6 +489,7 @@
 				}
 				type: "item"
 			}]
+			title: "Caja de expansión"
 			x: 2.5d
 			y: -3.5d
 		}
