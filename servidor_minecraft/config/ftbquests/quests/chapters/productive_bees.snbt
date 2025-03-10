@@ -225,7 +225,18 @@
 		{
 			dependencies: ["36ECE025715CBC2F"]
 			description: ["El botellero permite poner la miel en botellas. Si se ponen botellas en el inventario del botellero y un piston con un bloque de espacio hacia arriba, se puede aplastar una abeja para obtener material de abeja aplastada, el cual al ponerlo en una centrifugadora dará sus genes."]
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "productivebees:bottler"
+			}
 			id: "764E87FA790C5986"
+			shape: "hexagon"
+			size: 1.2d
 			tasks: [
 				{
 					id: "6F373D7DFB06C9FB"
@@ -544,7 +555,7 @@
 		}
 		{
 			dependencies: ["764E87FA790C5986"]
-			description: ["Permite guardar los genes para que no ocupen tanto espacio."]
+			description: ["Permite guardar los genes para que no ocupen tanto espacio. Los genes se pueden combinar con dulces de miel y así darlselo a una abeja para que tome ese gen."]
 			id: "06F630D3EF5E01DB"
 			tasks: [{
 				id: "1687E7D811443007"
@@ -559,6 +570,7 @@
 				}
 				type: "item"
 			}]
+			title: "Organizador de genes"
 			x: 8.5d
 			y: -1.5d
 		}

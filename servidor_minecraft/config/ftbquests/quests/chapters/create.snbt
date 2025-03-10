@@ -468,6 +468,19 @@
 			dependencies: ["16CE758B49206D2F"]
 			description: ["Sirve para hacer maquians más complejas."]
 			id: "0D10FB4ECAF93B08"
+			rewards: [{
+				id: "7B7C00467FE70DC7"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "create:wand_of_symmetry"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "7054FFC4F11AD817"
 				item: {
@@ -489,6 +502,78 @@
 			dependencies: ["715BDF6986633033"]
 			description: ["Pueden filtrar items y en el caso del Link de Redstone puede enviar señales de redstone de forma inalámbrica."]
 			id: "1B2EF43447855949"
+			rewards: [
+				{
+					count: 32
+					id: "0E6DACF01052BCF1"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:copper_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 32
+					id: "71DA46EF97BED6F4"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:iron_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 32
+					id: "704DA25A539BAAC7"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:gold_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 32
+					id: "66AA8ABFD23BE824"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:brass_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 32
+					id: "53E8C847652A37C7"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:zinc_ingot"
+					}
+					type: "item"
+				}
+			]
 			shape: "gear"
 			size: 1.5d
 			subtitle: "Aprendí a pensar :v"
@@ -845,6 +930,35 @@
 				id: "create:track"
 			}
 			id: "0D3F0E47191751F2"
+			rewards: [
+				{
+					id: "0CFA3292EC4C102F"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:schedule"
+					}
+					type: "item"
+				}
+				{
+					count: 32
+					id: "1992D4A1DB847633"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "create:track"
+					}
+					type: "item"
+				}
+			]
 			tasks: [
 				{
 					id: "103EEF3F930E47F9"
