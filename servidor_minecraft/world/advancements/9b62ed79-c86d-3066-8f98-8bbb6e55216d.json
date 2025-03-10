@@ -122,7 +122,9 @@
     "criteria": {
       "minecraft:skeleton": "2025-03-10 21:04:02 +0000",
       "minecraft:spider": "2025-03-10 21:19:41 +0000",
+      "minecraft:creeper": "2025-03-10 23:30:00 +0000",
       "quark:forgotten": "2025-03-10 21:05:40 +0000",
+      "minecraft:witch": "2025-03-10 23:30:00 +0000",
       "minecraft:enderman": "2025-03-10 21:28:40 +0000",
       "minecraft:zombie": "2025-03-09 23:58:43 +0000"
     },
@@ -152,9 +154,27 @@
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-03-10 23:29:34 +0000"
+    },
+    "done": true
+  },
   "plenty_of_golems:not_enough_golem_ad": {
     "criteria": {
       "not_enough_golem_ad_0": "2025-03-10 21:01:33 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-03-10 23:29:34 +0000"
+    },
+    "done": false
+  },
+  "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
+    "criteria": {
+      "scroll_forge": "2025-03-10 23:25:58 +0000"
     },
     "done": true
   },
@@ -170,6 +190,12 @@
     },
     "done": true
   },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-03-10 23:29:34 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/spell_book_iron": {
     "criteria": {
       "requirement": "2025-03-10 23:17:51 +0000"
@@ -179,6 +205,12 @@
   "the_bumblezone:honey_bucket/obtain_honey_bucket": {
     "criteria": {
       "obtain_honey_bucket": "2025-03-10 22:04:21 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-03-10 23:25:51 +0000"
     },
     "done": true
   },
@@ -239,6 +271,12 @@
   "comforts:sleeping_bag_yellow": {
     "criteria": {
       "has_yellow_wool": "2025-03-10 21:14:03 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2025-03-10 23:25:51 +0000"
     },
     "done": true
   },

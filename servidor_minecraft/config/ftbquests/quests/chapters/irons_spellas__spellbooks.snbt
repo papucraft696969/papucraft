@@ -415,6 +415,26 @@
 			x: 2.0d
 			y: -2.5d
 		}
+		{
+			dependencies: ["4A9819E2D20E83BB"]
+			description: ["Funciona para hacer pociones igual que el soporte para pociones, pero puede crear 4 pociones en vez de tres."]
+			id: "0F021E8B30EC54B3"
+			tasks: [{
+				id: "31626E6B57ACC0C3"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "irons_spellbooks:alchemist_cauldron"
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: 0.5d
+		}
 	]
 	title: "Spells and Spellbooks"
 }
