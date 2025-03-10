@@ -49,8 +49,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cherry_grove": "2025-03-10 21:58:24 +0000",
       "minecraft:river": "2025-03-10 00:12:05 +0000",
+      "atmospheric:atmospheric:laurel_forest": "2025-03-10 21:57:41 +0000",
       "minecraft:forest": "2025-03-09 23:31:10 +0000",
+      "minecraft:meadow": "2025-03-10 21:57:34 +0000",
       "minecraft:plains": "2025-03-09 23:31:30 +0000"
     },
     "done": false
@@ -158,6 +161,12 @@
   "comforts:hammock_black": {
     "criteria": {
       "has_black_wool": "2025-03-10 21:14:04 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_bucket/obtain_honey_bucket": {
+    "criteria": {
+      "obtain_honey_bucket": "2025-03-10 22:04:21 +0000"
     },
     "done": true
   },

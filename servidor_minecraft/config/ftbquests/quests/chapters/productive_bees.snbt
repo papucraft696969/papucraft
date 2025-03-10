@@ -223,6 +223,7 @@
 			y: -1.5d
 		}
 		{
+			description: ["El botellero permite poner la miel en botellas. Si se ponen botellas en el inventario del botellero y un piston con un bloque de espacio hacia arriba, se puede aplastar una abeja para obtener material de abeja aplastada, el cual al ponerlo en una centrifugadora dará sus genes."]
 			id: "764E87FA790C5986"
 			tasks: [
 				{
@@ -449,7 +450,7 @@
 					type: "item"
 				}
 			]
-			x: 6.5d
+			x: 8.5d
 			y: -1.5d
 		}
 		{
@@ -492,6 +493,63 @@
 			title: "Caja de expansión"
 			x: 2.5d
 			y: -3.5d
+		}
+		{
+			description: ["Funciona igual que la centrifugadora normal pero es más rápida si se le da energía."]
+			id: "7A998B8CD2AFB68E"
+			tasks: [{
+				id: "0B2840E9419942EE"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "productivebees:powered_centrifuge"
+				}
+				type: "item"
+			}]
+			x: 6.5d
+			y: 0.5d
+		}
+		{
+			description: ["Usa miel para generar energía que puede usarse con otras maquinas."]
+			id: "55F18C221EF54F0B"
+			tasks: [{
+				id: "0D85CEC3105E7FE1"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "productivebees:honey_generator"
+				}
+				type: "item"
+			}]
+			x: 6.5d
+			y: -1.5d
+		}
+		{
+			description: ["Permite guardar los genes para que no ocupen tanto espacio."]
+			id: "06F630D3EF5E01DB"
+			tasks: [{
+				id: "1687E7D811443007"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "productivebees:gene_indexer"
+				}
+				type: "item"
+			}]
+			x: 10.5d
+			y: -1.5d
 		}
 	]
 	title: "Productive Bees"
