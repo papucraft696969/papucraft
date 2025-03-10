@@ -175,7 +175,7 @@
 				type: "item"
 			}]
 			x: -1.5d
-			y: -4.0d
+			y: -7.0d
 		}
 		{
 			dependencies: ["2CA141630788DD0F"]
@@ -220,7 +220,7 @@
 			y: -3.0d
 		}
 		{
-			dependencies: ["4A9819E2D20E83BB"]
+			dependencies: ["6AFCDB2CB640EC29"]
 			description: ["Las varas o cetros permiten lanzar hechizos con el click derecho. Algunas dan mejoras a ciertos tipos de hechizos o al jugador."]
 			id: "6825CE60FBB8DEAC"
 			tasks: [{
@@ -257,8 +257,107 @@
 				type: "item"
 			}]
 			title: "Yunque Arcano"
-			x: 1.0d
-			y: -6.5d
+			x: 1.5d
+			y: -6.0d
+		}
+		{
+			id: "10766AD53B89CF1D"
+			tasks: [{
+				id: "62581994A7979287"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "irons_spellbooks:iron_spell_book"
+					tag: {
+						ISB_Spells: {
+							data: [ ]
+							maxSpells: 6
+							mustEquip: 1b
+							spellWheel: 1b
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["10B7164CA5531139"]
+			id: "6AFCDB2CB640EC29"
+			tasks: [
+				{
+					id: "05303DCF8D9E4FB3"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "irons_spellbooks:wandering_magician_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3C5211D2F8E7B63E"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "irons_spellbooks:wandering_magician_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2B20CE3BF6935B2A"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "irons_spellbooks:wandering_magician_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3E4DE3E3BE6D1246"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "irons_spellbooks:wandering_magician_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Armadura de Mago Errante"
+			x: -1.5d
+			y: -4.0d
 		}
 	]
 	title: "Spells and Spellbooks"
