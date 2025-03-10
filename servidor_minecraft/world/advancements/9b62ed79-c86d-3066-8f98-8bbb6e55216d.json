@@ -23,41 +23,11 @@
     },
     "done": true
   },
-  "naturescompass:natures_compass_log": {
-    "criteria": {
-      "has_log": "2025-03-09 23:32:01 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:teleportation/is_near_beehive": {
-    "criteria": {
-      "is_near_beehive": "2025-03-09 23:39:03 +0000"
-    },
-    "done": true
-  },
   "the_bumblezone:wiki": {
     "criteria": {
       "instant_granted": "2025-03-09 23:31:10 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-03-10 00:22:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2025-03-09 23:58:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:zombie": "2025-03-09 23:58:43 +0000"
-    },
-    "done": false
   },
   "idas:tinkers_citadel": {
     "criteria": {
@@ -68,12 +38,6 @@
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-03-09 23:31:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:zombie": "2025-03-09 23:58:43 +0000"
     },
     "done": true
   },
@@ -103,12 +67,6 @@
     },
     "done": true
   },
-  "aquamirae:adventure/root": {
-    "criteria": {
-      "crafting_table": "2025-03-09 23:45:57 +0000"
-    },
-    "done": true
-  },
   "numismatics:root": {
     "criteria": {
       "0": "2025-03-09 23:31:10 +0000"
@@ -127,9 +85,59 @@
     },
     "done": true
   },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_log": "2025-03-09 23:32:01 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2025-03-09 23:39:03 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2025-03-09 23:45:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-03-09 23:45:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-03-09 23:58:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-03-10 21:04:02 +0000",
+      "quark:forgotten": "2025-03-10 21:05:40 +0000",
+      "minecraft:zombie": "2025-03-09 23:58:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-03-09 23:58:43 +0000"
+    },
+    "done": true
+  },
+  "meetyourfight:main/root": {
+    "criteria": {
+      "killed_something": "2025-03-09 23:58:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-03-10 00:22:10 +0000"
     },
     "done": true
   },
@@ -139,9 +147,21 @@
     },
     "done": true
   },
-  "meetyourfight:main/root": {
+  "plenty_of_golems:not_enough_golem_ad": {
     "criteria": {
-      "killed_something": "2025-03-09 23:58:43 +0000"
+      "not_enough_golem_ad_0": "2025-03-10 21:01:33 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2025-03-10 21:04:01 +0000"
+    },
+    "done": true
+  },
+  "nethers_exoticism:nethers_exoticism_adv": {
+    "criteria": {
+      "nethers_exoticism_adv": "2025-03-10 21:01:33 +0000"
     },
     "done": true
   },
