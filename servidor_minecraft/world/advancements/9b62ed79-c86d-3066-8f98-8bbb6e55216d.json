@@ -153,15 +153,45 @@
     },
     "done": true
   },
+  "comforts:hammock_black": {
+    "criteria": {
+      "has_black_wool": "2025-03-10 21:14:04 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:double_trouble": {
     "criteria": {
       "double_trouble_0": "2025-03-10 21:04:01 +0000"
     },
     "done": true
   },
+  "comforts:sleeping_bag_black": {
+    "criteria": {
+      "has_black_wool": "2025-03-10 21:14:04 +0000"
+    },
+    "done": true
+  },
   "nethers_exoticism:nethers_exoticism_adv": {
     "criteria": {
       "nethers_exoticism_adv": "2025-03-10 21:01:33 +0000"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2025-03-10 21:05:43 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_yellow": {
+    "criteria": {
+      "has_yellow_wool": "2025-03-10 21:14:03 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_yellow": {
+    "criteria": {
+      "has_yellow_wool": "2025-03-10 21:14:03 +0000"
     },
     "done": true
   },
