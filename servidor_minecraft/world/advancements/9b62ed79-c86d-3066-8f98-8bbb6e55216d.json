@@ -158,9 +158,21 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/staff_root": {
+    "criteria": {
+      "requirement": "2025-03-10 23:17:42 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_black": {
     "criteria": {
       "has_black_wool": "2025-03-10 21:14:04 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_iron": {
+    "criteria": {
+      "requirement": "2025-03-10 23:17:51 +0000"
     },
     "done": true
   },
@@ -182,9 +194,27 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-03-10 23:19:57 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_black": {
     "criteria": {
       "has_black_wool": "2025-03-10 21:14:04 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2025-03-10 23:20:16 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-03-10 23:20:16 +0000"
     },
     "done": true
   },
@@ -209,6 +239,12 @@
   "comforts:sleeping_bag_yellow": {
     "criteria": {
       "has_yellow_wool": "2025-03-10 21:14:03 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-03-10 23:20:16 +0000"
     },
     "done": true
   },
