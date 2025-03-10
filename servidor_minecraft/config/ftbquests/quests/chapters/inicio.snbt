@@ -440,6 +440,7 @@
 				"i - Hacer un marcador en el mapa"
 				"j - Abrir el mapa"
 				", (Coma) Abrir el menu del chat de voz"
+				"Alt Izquierdo - Pulsar para hablar por voz (Depende de como lo configuren)"
 			]
 			icon: {
 				Count: 1
@@ -449,6 +450,7 @@
 				}
 			}
 			id: "05E9B42A03A2CC8D"
+			subtitle: "Controles por defecto si quieren los cambian"
 			tasks: [{
 				id: "344A17BD0A5D597A"
 				title: "Controles"

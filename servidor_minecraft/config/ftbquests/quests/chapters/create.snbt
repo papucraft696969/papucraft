@@ -1158,6 +1158,7 @@
 		}
 		{
 			dependencies: ["44056FADABC36CE7"]
+			description: ["Sirve para hacer otros tipos de cañones, se hace presioando hierro en una cuenca calentada."]
 			id: "400544F35AFC29C7"
 			tasks: [{
 				id: "392870CBB500B73F"
@@ -1172,8 +1173,9 @@
 				}
 				type: "item"
 			}]
-			x: 6.0d
-			y: -5.5d
+			title: "Hierro colado"
+			x: 7.0d
+			y: -5.0d
 		}
 		{
 			dependencies: ["400544F35AFC29C7"]
@@ -1245,8 +1247,8 @@
 				}
 			]
 			title: "Cañones automáticos"
-			x: 6.0d
-			y: -7.5d
+			x: 8.5d
+			y: -6.0d
 		}
 	]
 	title: "Create"
