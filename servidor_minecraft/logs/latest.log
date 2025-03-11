@@ -3169,3 +3169,6 @@ java.net.UnknownHostException: size-river.gl.joinmc.link: No address associated 
 [11Mar2025 23:14:39.729] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=680, y=-28, z=1165}
 [11Mar2025 23:14:53.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Creative Mode]
 [11Mar2025 23:14:56.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Survival Mode]
+[11Mar2025 23:19:08.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElPerejil24 has made the advancement [Tools of the Trade]
+[11Mar2025 23:23:44.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Creative Mode]
+[11Mar2025 23:23:46.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Gave 1 [Light] to ElPerejil24]

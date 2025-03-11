@@ -22664,3 +22664,14 @@ java.net.UnknownHostException: size-river.gl.joinmc.link: No address associated 
 [11Mar2025 23:15:05.890] [Worker-Main-10/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=1075, y=75, z=1143} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
 [11Mar2025 23:15:05.890] [Worker-Main-10/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=1075, y=65, z=1149} Block{productivebees:bumble_bee_nest}[facing=east]
 [11Mar2025 23:15:05.891] [Worker-Main-10/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=1087, y=74, z=1150} Block{productivebees:oak_wood_nest}[axis=y,facing=east]
+[11Mar2025 23:17:33.880] [Server thread/DEBUG] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Saved train listener data.
+[11Mar2025 23:17:33.885] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Mar2025 23:17:33.909] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Mar2025 23:19:08.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElPerejil24 has made the advancement [Tools of the Trade]
+[11Mar2025 23:22:33.877] [Server thread/DEBUG] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Saved train listener data.
+[11Mar2025 23:22:33.881] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Mar2025 23:22:33.904] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Mar2025 23:22:46.813] [Worker-Main-12/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=559, y=112, z=944} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[11Mar2025 23:22:46.814] [Worker-Main-12/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=545, y=111, z=955} Block{productivebees:oak_wood_nest}[axis=y,facing=south]
+[11Mar2025 23:23:44.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Creative Mode]
+[11Mar2025 23:23:46.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Gave 1 [Light] to ElPerejil24]
