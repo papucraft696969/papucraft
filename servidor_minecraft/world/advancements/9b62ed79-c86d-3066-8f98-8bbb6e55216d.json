@@ -151,7 +151,8 @@
       "minecraft:spider": "2025-03-11 01:57:20 +0000",
       "minecraft:creeper": "2025-03-11 23:07:54 +0000",
       "minecraft:enderman": "2025-03-11 00:53:11 +0000",
-      "minecraft:zombie": "2025-03-11 00:58:28 +0000"
+      "minecraft:zombie": "2025-03-11 00:58:28 +0000",
+      "minecraft:zombie_villager": "2025-03-11 23:32:23 +0000"
     },
     "done": false
   },
@@ -175,7 +176,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-03-11 00:54:21 +0000"
+      "bread": "2025-03-11 00:54:21 +0000",
+      "golden_apple": "2025-03-11 23:30:55 +0000"
     },
     "done": false
   },
@@ -365,6 +367,12 @@
       "find_artifact": "2025-03-11 02:19:23 +0000"
     },
     "done": true
+  },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_1": "2025-03-11 23:31:32 +0000"
+    },
+    "done": false
   },
   "irons_spellbooks:irons_spellbooks/ink_root": {
     "criteria": {
