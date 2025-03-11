@@ -462,6 +462,19 @@
 					}
 					type: "item"
 				}
+				{
+					id: "3D4F661AC90B691C"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "numismatics:sun"
+					}
+					type: "item"
+				}
 			]
 			tasks: [{
 				id: "3D423979A278E3A6"
@@ -511,19 +524,27 @@
 			dependencies: ["2C6AEDDE6DB22A61"]
 			description: ["Las mejoras de &9libro de hechizos&r añaden más espacios para hechizos. Las orbes de mejoras se pueden combinar con runas para mejorar un aspecto especifico de cualquier objeto mágico."]
 			id: "50EEBB1BCCD43A10"
-			rewards: [{
-				id: "4F6D4EA3CC02EE81"
-				item: {
-					Count: 1
-					ForgeCaps: {
-						"celestisynth:celestisynthitemstackcapabilities": {
-							cs.aquaSkin: 0
+			rewards: [
+				{
+					id: "4F6D4EA3CC02EE81"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
 						}
+						id: "irons_spellbooks:arcane_salvage"
 					}
-					id: "irons_spellbooks:arcane_salvage"
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					exclude_from_claim_all: true
+					id: "6DD7C0E7E3860331"
+					table_id: 7467965891831125961L
+					type: "choice"
+				}
+			]
 			tasks: [
 				{
 					id: "0367B296E46799AF"
