@@ -153,7 +153,7 @@
 		}
 		{
 			dependencies: ["2CA141630788DD0F"]
-			description: ["Los &9libros de hechizos&r permiten guardar &6pergaminos&r y así poder usarlos sin que se consuman. Los hechizos se pueden lanzar desde un &9libro de hechizos&r con la tecla &o&ev&r&r y se puede seleccionar el hechizo manteniedno la &o&er&r&r y moviendo el &o&eratón&r&r, al dar &o&eclick derecho&r&r se equipa en la ranura de libro de hechizos del menú de Curios. Los hechizos se pueden lanzar con solo el &6pergamino&r pero este se consumirá al hacerlo, así que es mejor guardarlos. Algunos &9libros de hechizos&r dan mejoras a ciertos hechizos o al jugador, y algunos vienen con uno o varios hechizos ya inscritos que no se pueden remover."]
+			description: ["Los &9libros de hechizos&r permiten guardar &6pergaminos&r y así poder usarlos sin que se consuman. Los hechizos se pueden lanzar desde un &9libro de hechizos&r con la tecla &o&ev&r&r y se puede seleccionar el hechizo manteniedno la &o&er&r&r y moviendo el &o&eratón&r&r. Al dar &o&eclick derecho&r&r con el libro se equipa en la ranura de libro de hechizos del menú de Curios. Los hechizos se pueden lanzar con solo el &6pergamino&r pero este se consumirá al hacerlo, así que es mejor guardarlos. Algunos &9libros de hechizos&r dan mejoras a ciertos hechizos o al jugador, y algunos vienen con uno o varios hechizos ya inscritos que no se pueden remover."]
 			id: "10B7164CA5531139"
 			rewards: [{
 				count: 5
@@ -506,6 +506,55 @@
 			}]
 			x: 3.5d
 			y: 0.5d
+		}
+		{
+			dependencies: ["2C6AEDDE6DB22A61"]
+			description: ["Las mejoras de &9libro de hechizos&r añaden más espacios para hechizos. Las orbes de mejoras se pueden combinar con runas para mejorar un aspecto especifico de cualquier objeto mágico."]
+			id: "50EEBB1BCCD43A10"
+			rewards: [{
+				id: "4F6D4EA3CC02EE81"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "irons_spellbooks:arcane_salvage"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "0367B296E46799AF"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "irons_spellbooks:lesser_spell_slot_upgrade"
+					}
+					type: "item"
+				}
+				{
+					id: "7199DB99023D76D7"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "irons_spellbooks:upgrade_orb"
+					}
+					type: "item"
+				}
+			]
+			title: "Mejoras"
+			x: 0.5d
+			y: 2.5d
 		}
 	]
 	title: "Spells and Spellbooks"

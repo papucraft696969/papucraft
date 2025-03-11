@@ -466,7 +466,7 @@
 				Count: 1
 				id: "ftbquests:custom_icon"
 				tag: {
-					Icon: "minecraft:textures/particle/heart.png"
+					Icon: "quark:textures/attribute/attack_damage.png"
 				}
 			}
 			id: "025C180246B8EDC7"
@@ -489,6 +489,38 @@
 				type: "checkmark"
 			}]
 			x: -3.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["226EF1B52BDE3D2B"]
+			description: ["En el inventario por la parte superior izquierda hay un icono que permite acceder al menú de Curios, ahí hay diferentes ranuras para objetos especiales que dan beneficios o efectos."]
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "curios:slot/empty_curio_slot"
+				}
+			}
+			id: "7437C87D9089073C"
+			rewards: [{
+				id: "79055520E6086581"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:cookie"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "4CC423B344D438A5"
+				title: "Curios"
+				type: "checkmark"
+			}]
+			x: 3.0d
 			y: -2.0d
 		}
 	]
