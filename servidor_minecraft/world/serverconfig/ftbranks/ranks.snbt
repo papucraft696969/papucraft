@@ -18,5 +18,6 @@
 	papu: {
 		name: "papu"
 		power: 1
+		command.warp: true
 	}
 }

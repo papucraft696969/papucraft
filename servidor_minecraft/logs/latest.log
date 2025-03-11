@@ -33,3 +33,27 @@
 [11Mar2025 00:26:47.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElPerejil24 has made the advancement [Sweet Dreams]
 [11Mar2025 00:35:09.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Creative Mode]
 [11Mar2025 00:38:01.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Survival Mode]
+[11Mar2025 00:42:26.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Creative Mode]
+[11Mar2025 00:42:54.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Spectator Mode]
+[11Mar2025 00:43:34.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Creative Mode]
+[11Mar2025 00:44:42.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Spectator Mode]
+[11Mar2025 00:44:47.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Creative Mode]
+[11Mar2025 00:45:44.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElPerejil24 has made the advancement [Hunt and Gather]
+[11Mar2025 00:46:22.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElPerejil24 has made the advancement [A Glorious Feast]
+[11Mar2025 00:46:52.836] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElPerejil24 lost connection: Disconnected
+[11Mar2025 00:46:52.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElPerejil24 left the game
+[11Mar2025 00:46:52.839] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9b62ed79-c86d-3066-8f98-8bbb6e55216d was unloaded
+[11Mar2025 00:46:52.841] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ElPerejil24
+[11Mar2025 00:46:52.898] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[11Mar2025 00:47:14.956] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElPerejil24[/127.95.222.62:42937] logged in with entity id 38377 at (869.4792042057529, 150.02442408821366, 713.0586844923862)
+[11Mar2025 00:47:15.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElPerejil24 joined the game
+[11Mar2025 00:47:15.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElPerejil24 has made the advancement [Nether's Exoticism]
+[11Mar2025 00:47:15.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElPerejil24 has made the advancement [Plenty of Golems]
+[11Mar2025 00:47:15.266] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ElPerejil24 (18)
+[11Mar2025 00:47:15.267] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ElPerejil24
+[11Mar2025 00:47:15.309] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9b62ed79-c86d-3066-8f98-8bbb6e55216d was loaded
+[11Mar2025 00:48:49.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Survival Mode]
+[11Mar2025 00:48:50.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Creative Mode]
+[11Mar2025 00:48:51.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Survival Mode]
+[11Mar2025 00:49:51.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElPerejil24 has reached the goal [Thank you for traveling]
+[11Mar2025 00:50:21.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElPerejil24 has made the advancement [Getting an Upgrade]

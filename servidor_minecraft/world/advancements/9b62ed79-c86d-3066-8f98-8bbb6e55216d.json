@@ -29,12 +29,6 @@
     },
     "done": true
   },
-  "idas:tinkers_citadel": {
-    "criteria": {
-      "in_tinkers_citadel": "2025-03-11 00:26:40 +0000"
-    },
-    "done": true
-  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-03-11 00:26:35 +0000"
@@ -46,12 +40,6 @@
       "always_true": "2025-03-11 00:26:35 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:plains": "2025-03-11 00:26:36 +0000"
-    },
-    "done": false
   },
   "parcool:grant_parcool_guide": {
     "criteria": {
@@ -83,9 +71,64 @@
     },
     "done": true
   },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2025-03-11 00:43:22 +0000",
+      "minecraft:plains": "2025-03-11 00:26:36 +0000"
+    },
+    "done": false
+  },
+  "idas:tinkers_citadel": {
+    "criteria": {
+      "in_tinkers_citadel": "2025-03-11 00:26:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-03-11 00:26:47 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2025-03-11 00:43:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-03-11 00:45:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_feast": {
+    "criteria": {
+      "stuffed_pumpkin": "2025-03-11 00:46:22 +0000"
+    },
+    "done": true
+  },
+  "plenty_of_golems:not_enough_golem_ad": {
+    "criteria": {
+      "not_enough_golem_ad_0": "2025-03-11 00:47:15 +0000"
+    },
+    "done": true
+  },
+  "createrailwaysnavigator:navigator": {
+    "criteria": {
+      "requirement": "2025-03-11 00:49:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-03-11 00:50:21 +0000"
+    },
+    "done": true
+  },
+  "nethers_exoticism:nethers_exoticism_adv": {
+    "criteria": {
+      "nethers_exoticism_adv": "2025-03-11 00:47:15 +0000"
     },
     "done": true
   },
