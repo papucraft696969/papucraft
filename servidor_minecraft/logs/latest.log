@@ -64,3 +64,22 @@
 [11Mar2025 00:53:17.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Survival Mode]
 [11Mar2025 00:59:14.390] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7844a82[id=<null>,name=PandoroEficiente,properties={},legacy=false] (/127.0.201.49:34593) lost connection: Disconnected
 [11Mar2025 00:59:14.433] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[11Mar2025 01:00:58.986] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@42099f08[id=<null>,name=PandoroEficiente,properties={},legacy=false] (/127.0.201.49:55027) lost connection: Disconnected
+[11Mar2025 01:01:56.788] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6ca4dea9[id=<null>,name=PandoroEficiente,properties={},legacy=false] (/127.0.201.49:36317) lost connection: Disconnected
+[11Mar2025 01:02:01.582] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3401c89d[id=<null>,name=PandoroEficiente,properties={},legacy=false] (/127.0.201.49:37191) lost connection: Disconnected
+[11Mar2025 01:05:38.081] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3c894fdd[id=<null>,name=PandoroEficiente,properties={},legacy=false] (/127.0.201.49:41425) lost connection: Disconnected
+[11Mar2025 01:07:19.883] [ForkJoinPool.commonPool-worker-16/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[11Mar2025 01:07:19.887] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PandoroEficiente[/127.0.201.49:60171] logged in with entity id 43377 at (867.5, 72.0, 837.5)
+[11Mar2025 01:07:19.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandoroEficiente joined the game
+[11Mar2025 01:07:19.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandoroEficiente has made the advancement [Nether's Exoticism]
+[11Mar2025 01:07:20.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandoroEficiente has made the advancement [Plenty of Golems]
+[11Mar2025 01:07:20.963] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of PandoroEficiente (18)
+[11Mar2025 01:07:20.963] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to PandoroEficiente
+[11Mar2025 01:07:21.089] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of ad71574e-8a77-3b78-8d86-bc60e6534bd3 was loaded
+[11Mar2025 01:07:56.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandoroEficiente has completed the challenge [Tinker's Citadel]
+[11Mar2025 01:08:24.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Creative Mode]
+[11Mar2025 01:08:34.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Survival Mode]
+[11Mar2025 01:09:35.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PandoroEficiente has reached the goal [Thank you for traveling]
+[11Mar2025 01:10:16.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Creative Mode]
+[11Mar2025 01:10:49.533] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=868, y=71, z=850}
+[11Mar2025 01:10:49.832] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=867, y=71, z=850}
