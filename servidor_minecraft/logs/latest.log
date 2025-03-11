@@ -3185,3 +3185,5 @@ java.net.UnknownHostException: size-river.gl.joinmc.link: No address associated 
 [11Mar2025 23:41:22.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Survival Mode]
 [11Mar2025 23:45:09.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Creative Mode]
 [11Mar2025 23:45:13.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Gave 1 [Light] to ElPerejil24]
+[11Mar2025 23:47:54.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Survival Mode]
+[11Mar2025 23:54:51.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElPerejil24 has made the advancement [Isn't It Iron Pick]
