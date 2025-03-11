@@ -15,4 +15,8 @@
 		condition: "op"
 		ftbranks.name_format: "&2{name}"
 	}
+	papu: {
+		name: "papu"
+		power: 1
+	}
 }

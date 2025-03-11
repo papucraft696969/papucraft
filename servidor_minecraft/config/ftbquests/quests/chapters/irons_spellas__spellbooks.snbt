@@ -504,6 +504,19 @@
 			dependencies: ["4A9819E2D20E83BB"]
 			description: ["Funciona para hacer pociones igual que el soporte para pociones, pero puede crear 4 pociones en vez de tres y permite mejorar algunas pociones. Se puede poner un pergamino de hechizos con un 50% de probabilidad para que se convierta tinta de su rareza."]
 			id: "0F021E8B30EC54B3"
+			rewards: [{
+				id: "723EC17A879FD538"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "irons_spellbooks:silver_ring"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "31626E6B57ACC0C3"
 				item: {
