@@ -1,8 +1,8 @@
-[20:06:15] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[20:06:15] [INIT] Loaded plugins:
-[20:06:15] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[20:06:15] [INFO] example.js#5: Hello, World! (Loaded server scripts)
-[20:06:15] [INFO] Loaded script server_scripts:example.js in 0.001 s
-[20:06:15] [INFO] Loaded 1/1 KubeJS server scripts in 0.022 s with 0 errors and 0 warnings
-[20:06:15] [INFO] Scripts loaded
-[20:06:42] [INFO] Server resource reload complete!
+[20:32:53] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[20:32:53] [INIT] Loaded plugins:
+[20:32:53] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[20:32:53] [INFO] example.js#5: Hello, World! (Loaded server scripts)
+[20:32:53] [INFO] Loaded script server_scripts:example.js in 0.0 s
+[20:32:53] [INFO] Loaded 1/1 KubeJS server scripts in 0.025 s with 0 errors and 0 warnings
+[20:32:53] [INFO] Scripts loaded
+[20:33:19] [INFO] Server resource reload complete!
