@@ -22751,3 +22751,31 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [11Mar2025 00:19:49.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Spectator Mode]
 [11Mar2025 00:20:05.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Creative Mode]
 [11Mar2025 00:20:25.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Spectator Mode]
+[11Mar2025 00:20:31.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Creative Mode]
+[11Mar2025 00:20:41.649] [Server thread/DEBUG] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Saved train listener data.
+[11Mar2025 00:20:41.651] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Mar2025 00:20:41.674] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Mar2025 00:22:24.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Spectator Mode]
+[11Mar2025 00:22:38.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Creative Mode]
+[11Mar2025 00:22:42.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Spectator Mode]
+[11Mar2025 00:22:45.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Creative Mode]
+[11Mar2025 00:23:16.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Spectator Mode]
+[11Mar2025 00:23:25.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Creative Mode]
+[11Mar2025 00:23:27.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Gave 1 [Light] to ElPerejil24]
+[11Mar2025 00:25:16.888] [Worker-Main-90/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=789, y=72, z=425} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[11Mar2025 00:25:16.924] [Worker-Main-90/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=802, y=74, z=427} Block{productivebees:dark_oak_wood_nest}[axis=y,facing=north]
+[11Mar2025 00:25:17.316] [Worker-Main-76/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=899, y=72, z=423} Block{productivebees:dark_oak_wood_nest}[axis=y,facing=east]
+[11Mar2025 00:25:17.557] [Worker-Main-89/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=960, y=112, z=420} Block{productivebees:birch_wood_nest}[axis=y,facing=south]
+[11Mar2025 00:25:17.636] [Worker-Main-89/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=753, y=72, z=426} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[11Mar2025 00:25:26.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElPerejil24 has reached the goal [Horror Under the Mantle]
+[11Mar2025 00:25:32.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElPerejil24 has made the advancement [Dark Metallurgy]
+[11Mar2025 00:25:39.499] [Worker-Main-76/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=1104, y=112, z=451} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[11Mar2025 00:25:41.631] [Server thread/DEBUG] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Saved train listener data.
+[11Mar2025 00:25:41.633] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Mar2025 00:25:41.657] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Mar2025 00:26:35.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Revoked 1054 advancements from ElPerejil24]
+[11Mar2025 00:26:40.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElPerejil24 has completed the challenge [Tinker's Citadel]
+[11Mar2025 00:26:43.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Spectator Mode]
+[11Mar2025 00:26:44.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Creative Mode]
+[11Mar2025 00:26:45.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Survival Mode]
+[11Mar2025 00:26:47.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElPerejil24 has made the advancement [Sweet Dreams]
