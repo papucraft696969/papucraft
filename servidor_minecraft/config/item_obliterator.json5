@@ -16,7 +16,9 @@
   // Items here will be unusable completely
   //    Example: minecraft:diamond
   "blacklisted_items": [
-    "examplemod:example_item"
+    "examplemod:example_item",
+    "the_bumblezone:bumble_bee_chestplate_trans_1",
+    "the_bumblezone:bumble_bee_chestplate_trans_2"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
@@ -42,7 +44,8 @@
   // Items here will get their recipes disabled
   // Keep in mind this already is applied to blacklisted items
   "only_disable_recipes": [
-    "examplemod:example_item"
+    "examplemod:example_item",
+    "numismatics:bank_terminal"
   ],
   // -----------------------------------------------------------
   // If true, the mod will use a hashset to handle the blacklisted items
