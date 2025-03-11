@@ -57,3 +57,10 @@
 [11Mar2025 00:48:51.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Survival Mode]
 [11Mar2025 00:49:51.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElPerejil24 has reached the goal [Thank you for traveling]
 [11Mar2025 00:50:21.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElPerejil24 has made the advancement [Getting an Upgrade]
+[11Mar2025 00:52:22.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Creative Mode]
+[11Mar2025 00:52:26.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Survival Mode]
+[11Mar2025 00:53:04.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Creative Mode]
+[11Mar2025 00:53:11.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElPerejil24 has made the advancement [Monster Hunter]
+[11Mar2025 00:53:17.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Survival Mode]
+[11Mar2025 00:59:14.390] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7844a82[id=<null>,name=PandoroEficiente,properties={},legacy=false] (/127.0.201.49:34593) lost connection: Disconnected
+[11Mar2025 00:59:14.433] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
