@@ -22520,3 +22520,11 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [11Mar2025 20:13:21.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Spectator Mode]
 [11Mar2025 20:13:25.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Survival Mode]
 [11Mar2025 20:14:41.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Creative Mode]
+[11Mar2025 20:17:05.001] [Server thread/DEBUG] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Saved train listener data.
+[11Mar2025 20:17:05.012] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Mar2025 20:17:05.043] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Mar2025 20:19:03.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Gave 1 [Command Block] to ElPerejil24]
+[11Mar2025 20:22:04.992] [Server thread/DEBUG] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Saved train listener data.
+[11Mar2025 20:22:04.995] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Mar2025 20:22:05.020] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Mar2025 20:24:15.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Added tag 'op' to ElPerejil24]
