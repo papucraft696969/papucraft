@@ -22709,3 +22709,9 @@ java.net.UnknownHostException: size-river.gl.joinmc.link: No address associated 
 [11Mar2025 23:52:33.881] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11Mar2025 23:52:33.904] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [11Mar2025 23:54:51.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElPerejil24 has made the advancement [Isn't It Iron Pick]
+[11Mar2025 23:57:33.867] [Server thread/DEBUG] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Saved train listener data.
+[11Mar2025 23:57:33.871] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Mar2025 23:57:33.894] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Mar2025 00:02:33.869] [Server thread/DEBUG] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Saved train listener data.
+[12Mar2025 00:02:33.872] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Mar2025 00:02:33.894] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
