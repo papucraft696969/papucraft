@@ -74,11 +74,14 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cherry_grove": "2025-03-11 02:00:07 +0000",
+      "minecraft:birch_forest": "2025-03-12 00:08:16 +0000",
       "environmental:environmental:blossom_woods": "2025-03-11 02:09:05 +0000",
       "minecraft:river": "2025-03-11 00:51:08 +0000",
       "atmospheric:atmospheric:laurel_forest": "2025-03-11 01:44:24 +0000",
+      "minecraft:dripstone_caves": "2025-03-12 00:10:36 +0000",
       "minecraft:grove": "2025-03-11 02:04:18 +0000",
       "minecraft:forest": "2025-03-11 00:43:22 +0000",
+      "minecraft:old_growth_birch_forest": "2025-03-12 00:07:22 +0000",
       "minecraft:deep_dark": "2025-03-11 02:18:24 +0000",
       "minecraft:meadow": "2025-03-11 01:44:22 +0000",
       "minecraft:plains": "2025-03-11 00:26:36 +0000"
@@ -368,6 +371,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-03-11 23:19:08 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:charm_collector": {
     "criteria": {
       "charm_collector_1": "2025-03-11 23:31:32 +0000"
@@ -380,9 +389,9 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/ink_root": {
+  "lootr:25loot": {
     "criteria": {
-      "requirement": "2025-03-11 23:19:08 +0000"
+      "loot_stat": "2025-03-12 00:08:25 +0000"
     },
     "done": true
   },
