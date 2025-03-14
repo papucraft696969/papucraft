@@ -133,6 +133,26 @@
 			x: 1.5d
 			y: -2.5d
 		}
+		{
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "quark:dark_oak_chest"
+			}
+			id: "7C360A6AD9F08EA8"
+			tasks: [{
+				advancement: "lootr:100loot"
+				criterion: ""
+				id: "2683DC9E9087A690"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
 	]
 	title: "Misiones"
 }
