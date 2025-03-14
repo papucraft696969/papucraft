@@ -337,6 +337,15 @@
 			y: 7.0d
 		}
 		{
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:iron_ingot"
+			}
 			id: "64A8B7B2B4D914F9"
 			size: 1.5d
 			tasks: [{
@@ -348,6 +357,15 @@
 			y: 0.0d
 		}
 		{
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:apple"
+			}
 			id: "20A8B2298B2AD09A"
 			size: 1.5d
 			tasks: [{
@@ -379,6 +397,18 @@
 			y: 1.5d
 		}
 		{
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:iron_pickaxe"
+				tag: {
+					Damage: 0
+				}
+			}
 			id: "37AAB5B4FE922E59"
 			size: 1.5d
 			tasks: [{
@@ -636,7 +666,17 @@
 			y: 0.5d
 		}
 		{
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:ghast_spawn_egg"
+			}
 			id: "6580333ABBB713BE"
+			size: 1.5d
 			tasks: [{
 				id: "4387B8737AA50FA0"
 				title: "Mobs"
@@ -646,7 +686,20 @@
 			y: 5.0d
 		}
 		{
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "minecraft:iron_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
 			id: "2F715688AC618272"
+			size: 1.5d
 			tasks: [{
 				id: "342A0F5A740BE24F"
 				title: "Armadura"
@@ -869,6 +922,44 @@
 			title: "Caballo"
 			x: 6.5d
 			y: 8.0d
+		}
+		{
+			id: "1EBCB0A2A71D9953"
+			tasks: [{
+				id: "448B081E599128AF"
+				title: "Magia"
+				type: "checkmark"
+			}]
+			x: 5.5d
+			y: -2.5d
+		}
+		{
+			id: "18CA9F2BDC582DB0"
+			tasks: [{
+				id: "68D73AF2D6ED7E71"
+				title: "Varios"
+				type: "checkmark"
+			}]
+			x: -3.5d
+			y: -2.5d
+		}
+		{
+			id: "577F69888406D3EB"
+			tasks: [{
+				id: "31E77DAD0D031CBF"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "domesticationinnovation:collar_tag"
+				}
+				type: "item"
+			}]
+			x: -4.5d
+			y: -4.0d
 		}
 	]
 	title: "Tienda"
