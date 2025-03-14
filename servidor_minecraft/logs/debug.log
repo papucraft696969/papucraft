@@ -22578,3 +22578,14 @@ java.net.UnknownHostException: size-river.gl.joinmc.link: No address associated 
 [14Mar2025 18:44:58.076] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
 [14Mar2025 18:45:46.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: 6 biome entry/entries set between 904, 84, 660 and 908, 84, 668]
 [14Mar2025 18:46:05.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: 6 biome entry/entries set between 904, 84, 660 and 908, 84, 668]
+[14Mar2025 18:47:58.648] [Server thread/DEBUG] [mixin/]: Mixing copycat.slab.TrackPlacementMixin from copycats-common.mixins.json into com.simibubi.create.content.trains.track.TrackPlacement
+[14Mar2025 18:48:49.302] [Server thread/DEBUG] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Saved train listener data.
+[14Mar2025 18:48:49.305] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Mar2025 18:48:49.327] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Mar2025 18:49:35.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElPerejil24 has made the advancement [Cloud Storage]
+[14Mar2025 18:49:49.246] [Server thread/DEBUG] [mixin/]: Mixing accessors.item.AccessorCooldownInstance from bookshelf.common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[14Mar2025 18:49:49.247] [Server thread/DEBUG] [mixin/]: Mixing gameplay.CooldownInstanceAccessor from the_bumblezone-common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[14Mar2025 18:53:49.321] [Server thread/DEBUG] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Saved train listener data.
+[14Mar2025 18:53:49.324] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Mar2025 18:53:49.349] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Mar2025 18:55:53.147] [Worker-Main-1/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=433, y=75, z=802} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
