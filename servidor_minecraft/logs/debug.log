@@ -22939,3 +22939,43 @@ java.net.UnknownHostException: size-river.gl.joinmc.link: No address associated 
 [14Mar2025 18:00:07.488] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [14Mar2025 18:00:31.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Spectator Mode]
 [14Mar2025 18:00:53.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Creative Mode]
+[14Mar2025 18:05:07.469] [Server thread/DEBUG] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Saved train listener data.
+[14Mar2025 18:05:07.471] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Mar2025 18:05:07.495] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Mar2025 18:10:07.462] [Server thread/DEBUG] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Saved train listener data.
+[14Mar2025 18:10:07.504] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Mar2025 18:10:07.529] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Mar2025 18:11:07.504] [Server thread/INFO] [Easy NPC/]: Opening menu fc04cdb2-8459-4758-ae74-c3dea8c6622e for npc 97404e99-5bec-407f-be3f-c5436b558e45 and player ServerPlayer['ElPerejil24'/119, l='ServerLevel[world]', x=881.51, y=80.00, z=706.70] with DialogMenuHandler{displayName=literal{loquito del centro}[style={color=#0000FF}]}
+[14Mar2025 18:11:12.904] [Server thread/INFO] [Easy NPC/]: Opening menu 024a255f-0cd9-496c-915e-79030a6c1d6e for npc 97404e99-5bec-407f-be3f-c5436b558e45 and player ServerPlayer['ElPerejil24'/119, l='ServerLevel[world]', x=881.51, y=80.00, z=706.70] with DialogMenuHandler{displayName=literal{loquito del centro}[style={color=#0000FF}]}
+[14Mar2025 18:11:14.030] [Server thread/INFO] [Easy NPC/]: Opening menu db13cd0f-6345-4b67-99b6-ee95aa8671d2 for npc 97404e99-5bec-407f-be3f-c5436b558e45 and player ServerPlayer['ElPerejil24'/119, l='ServerLevel[world]', x=881.51, y=80.00, z=706.70] with DialogMenuHandler{displayName=literal{loquito del centro}[style={color=#0000FF}]}
+[14Mar2025 18:11:57.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Gave 1 [Light] to ElPerejil24]
+[14Mar2025 18:13:36.069] [Worker-Main-3/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[14Mar2025 18:13:36.070] [Worker-Main-3/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from the_bumblezone-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[14Mar2025 18:13:36.070] [Worker-Main-3/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from integrated_api-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[14Mar2025 18:13:36.070] [Worker-Main-3/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[14Mar2025 18:13:36.070] [Worker-Main-3/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[14Mar2025 18:13:39.124] [Worker-Main-2/DEBUG] [mixin/]: Mixing world.NoiseChunkAccessor from the_bumblezone-common.mixins.json into net.minecraft.world.level.levelgen.NoiseChunk
+[14Mar2025 18:13:39.124] [Worker-Main-2/DEBUG] [mixin/]: Mixing world.NoiseChunkMixin from the_bumblezone-common.mixins.json into net.minecraft.world.level.levelgen.NoiseChunk
+[14Mar2025 18:13:39.125] [Worker-Main-2/DEBUG] [mixin/]: Renaming synthetic method lambda$injectWrapNew$1()Lnet/minecraft/world/level/biome/Climate$Sampler; to md8b0103$lambda$injectWrapNew$1$0 in the_bumblezone-common.mixins.json:world.NoiseChunkMixin
+[14Mar2025 18:13:39.125] [Worker-Main-2/DEBUG] [mixin/]: Renaming synthetic method lambda$injectWrapNew$0()Lnet/minecraft/world/level/biome/BiomeSource; to md8b0103$lambda$injectWrapNew$0$1 in the_bumblezone-common.mixins.json:world.NoiseChunkMixin
+[14Mar2025 18:13:39.134] [Worker-Main-2/DEBUG] [mixin/]: Mixing structures.BeardifierMixin from integrated_api-common.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[14Mar2025 18:13:39.135] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[14Mar2025 18:13:39.135] [Worker-Main-2/DEBUG] [mixin/]: Mixing structures.BeardifierAccessor from integrated_api-common.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[14Mar2025 18:13:39.135] [Worker-Main-2/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[14Mar2025 18:13:39.138] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[14Mar2025 18:13:39.138] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[14Mar2025 18:13:40.139] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=463, y=79, z=803} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[14Mar2025 18:13:40.175] [Worker-Main-2/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=450, y=78, z=825} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[14Mar2025 18:13:42.285] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=439, y=66, z=878} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[14Mar2025 18:13:43.696] [Worker-Main-37/DEBUG] [mixin/]: Mixing structures.JigsawPlacementUnlimit from integrated_api-common.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement
+[14Mar2025 18:13:43.697] [Worker-Main-37/DEBUG] [mixin/]: Mixing ChunkGeneratorMixin from quark.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement
+[14Mar2025 18:15:07.467] [Server thread/DEBUG] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Saved train listener data.
+[14Mar2025 18:15:07.469] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Mar2025 18:15:07.495] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Mar2025 18:20:07.473] [Server thread/DEBUG] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Saved train listener data.
+[14Mar2025 18:20:07.475] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Mar2025 18:20:07.499] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Mar2025 18:21:52.676] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=436, y=65, z=1374} Block{productivebees:birch_wood_nest}[axis=y,facing=north]
+[14Mar2025 18:21:52.677] [Worker-Main-3/DEBUG] [cy.jdkdigital.productivebees.ProductiveBees/]: Spawned nest at BlockPos{x=445, y=65, z=1374} Block{productivebees:oak_wood_nest}[axis=y,facing=north]
+[14Mar2025 18:23:29.863] [Server thread/DEBUG] [mixin/]: Mixing MapDecorationMixin from alexscaves.mixins.json into net.minecraft.world.level.saveddata.maps.MapDecoration
+[14Mar2025 18:23:29.867] [Server thread/DEBUG] [mixin/]: Mixing HoldingPlayerMixin from moonlight-common.mixins.json into net.minecraft.world.level.saveddata.maps.MapItemSavedData$HoldingPlayer

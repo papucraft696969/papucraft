@@ -801,7 +801,7 @@
 				Count: 1
 				id: "ftbquests:custom_icon"
 				tag: {
-					Icon: "minecraft:textures/entity_icon/sheep/sheep.png"
+					Icon: "ftbchunks:textures/faces/minecraft/sheep.png"
 				}
 			}
 			id: "7D5684841CB0C6BF"
