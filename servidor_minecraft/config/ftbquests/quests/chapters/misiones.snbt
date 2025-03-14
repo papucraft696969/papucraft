@@ -3,7 +3,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "misiones"
-	group: ""
+	group: "2EF426A63DC9F86C"
 	icon: {
 		Count: 1
 		ForgeCaps: {
@@ -14,7 +14,7 @@
 		id: "domesticationinnovation:deed_of_ownership"
 	}
 	id: "345BA7102444D712"
-	order_index: 2
+	order_index: 1
 	quest_links: [ ]
 	quests: [
 		{
@@ -40,8 +40,8 @@
 				type: "kill"
 				value: 50L
 			}]
-			x: 0.0d
-			y: -2.5d
+			x: -0.5d
+			y: -3.0d
 		}
 		{
 			can_repeat: true
@@ -66,8 +66,8 @@
 				type: "kill"
 				value: 50L
 			}]
-			x: 1.5d
-			y: -2.5d
+			x: 0.5d
+			y: -3.0d
 		}
 		{
 			can_repeat: true
@@ -123,36 +123,15 @@
 			y: -0.5d
 		}
 		{
-			id: "2B7A9559E4DF954B"
-			rewards: [{
-				id: "15B660C674807E71"
-				item: {
-					Count: 1
-					ForgeCaps: {
-						"celestisynth:celestisynthitemstackcapabilities": {
-							cs.aquaSkin: 0
-						}
-					}
-					id: "numismatics:crown"
-				}
-				type: "item"
-			}]
+			id: "0B5F6FB5B99F4400"
 			tasks: [{
-				count: 64L
-				id: "088179F781A06C6A"
-				item: {
-					Count: 64
-					ForgeCaps: {
-						"celestisynth:celestisynthitemstackcapabilities": {
-							cs.aquaSkin: 0
-						}
-					}
-					id: "minecraft:iron_ingot"
-				}
-				type: "item"
+				entity: "minecraft:spider"
+				id: "42452D33C787F2E4"
+				type: "kill"
+				value: 50L
 			}]
-			x: 0.0d
-			y: 2.5d
+			x: 1.5d
+			y: -2.5d
 		}
 	]
 	title: "Misiones"

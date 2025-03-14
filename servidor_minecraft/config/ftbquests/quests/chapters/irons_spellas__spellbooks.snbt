@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "irons_spellas__spellbooks"
-	group: ""
+	group: "2276081CEF43EFAE"
 	icon: {
 		Count: 1
 		ForgeCaps: {
@@ -21,7 +21,7 @@
 		}
 	}
 	id: "26AAC1DEAA106770"
-	order_index: 7
+	order_index: 5
 	quest_links: [ ]
 	quests: [
 		{

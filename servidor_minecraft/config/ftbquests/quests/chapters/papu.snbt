@@ -5,7 +5,7 @@
 	filename: "papu"
 	group: ""
 	id: "138EF81EC4BFEE0A"
-	order_index: 8
+	order_index: 0
 	quest_links: [ ]
 	quests: [{
 		id: "56A14B13268DF4BA"

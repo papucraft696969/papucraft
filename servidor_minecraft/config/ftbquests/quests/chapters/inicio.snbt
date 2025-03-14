@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "inicio"
-	group: ""
+	group: "2EF426A63DC9F86C"
 	icon: {
 		Count: 1
 		ForgeCaps: {
@@ -200,6 +200,22 @@
 							}
 						}
 						id: "waystones:waystone"
+					}
+					type: "item"
+				}
+				{
+					id: "3B1B4E152C8888D2"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "minecraft:shield"
+						tag: {
+							Damage: 0
+						}
 					}
 					type: "item"
 				}

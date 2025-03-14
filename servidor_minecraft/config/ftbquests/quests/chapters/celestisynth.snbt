@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "celestisynth"
-	group: ""
+	group: "2276081CEF43EFAE"
 	icon: {
 		Count: 1
 		ForgeCaps: {
@@ -17,7 +17,7 @@
 		}
 	}
 	id: "3B11099EC18E3626"
-	order_index: 6
+	order_index: 4
 	quest_links: [ ]
 	quests: [
 		{
