@@ -444,9 +444,27 @@
     },
     "done": true
   },
+  "biomancy:biomancy/primal_vision": {
+    "criteria": {
+      "has_primordial_core": "2025-03-14 18:34:01 +0000"
+    },
+    "done": true
+  },
   "create:track_0": {
     "criteria": {
       "0": "2025-03-14 18:29:22 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-03-14 18:36:01 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2025-03-14 18:34:35 +0000"
     },
     "done": true
   },
