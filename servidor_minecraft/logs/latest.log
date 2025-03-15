@@ -3180,3 +3180,9 @@ java.net.UnknownHostException: size-river.gl.joinmc.link: No address associated 
 [15Mar2025 17:57:22.648] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2183ms or 43 ticks behind
 [15Mar2025 17:57:40.281] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2666ms or 53 ticks behind
 [15Mar2025 17:58:51.720] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1cab2ed3[id=<null>,name=ElPerejil24,properties={},legacy=false] (/127.199.95.113:59493) lost connection: Disconnected
+[15Mar2025 18:08:07.444] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElPerejil24[/127.199.95.113:48881] logged in with entity id 236 at (813.5158540964982, 76.5, 798.7454236075921)
+[15Mar2025 18:08:07.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElPerejil24 joined the game
+[15Mar2025 18:08:09.927] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ElPerejil24 (18)
+[15Mar2025 18:08:09.930] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ElPerejil24
+[15Mar2025 18:08:09.931] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9b62ed79-c86d-3066-8f98-8bbb6e55216d was loaded
+[15Mar2025 18:08:12.327] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
