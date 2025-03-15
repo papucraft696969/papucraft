@@ -22682,3 +22682,9 @@ java.net.UnknownHostException: size-river.gl.joinmc.link: No address associated 
 [15Mar2025 01:45:32.928] [Server thread/DEBUG] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Saved train listener data.
 [15Mar2025 01:45:32.930] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15Mar2025 01:45:32.953] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Mar2025 01:50:32.920] [Server thread/DEBUG] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Saved train listener data.
+[15Mar2025 01:50:32.922] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Mar2025 01:50:32.945] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Mar2025 01:55:32.919] [Server thread/DEBUG] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Saved train listener data.
+[15Mar2025 01:55:32.921] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Mar2025 01:55:32.944] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
