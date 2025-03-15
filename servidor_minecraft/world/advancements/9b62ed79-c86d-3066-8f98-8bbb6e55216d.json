@@ -73,6 +73,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-03-14 19:17:04 +0000",
       "minecraft:cherry_grove": "2025-03-11 02:00:07 +0000",
       "minecraft:birch_forest": "2025-03-12 00:08:16 +0000",
       "environmental:environmental:blossom_woods": "2025-03-11 02:09:05 +0000",
@@ -80,11 +81,15 @@
       "minecraft:river": "2025-03-11 00:51:08 +0000",
       "atmospheric:atmospheric:laurel_forest": "2025-03-11 01:44:24 +0000",
       "minecraft:stony_shore": "2025-03-13 21:17:51 +0000",
+      "minecraft:snowy_plains": "2025-03-14 19:19:32 +0000",
       "minecraft:dripstone_caves": "2025-03-12 00:10:36 +0000",
+      "minecraft:snowy_taiga": "2025-03-14 19:19:26 +0000",
       "minecraft:grove": "2025-03-11 02:04:18 +0000",
       "minecraft:forest": "2025-03-11 00:43:22 +0000",
       "minecraft:ocean": "2025-03-13 21:18:11 +0000",
+      "atmospheric:atmospheric:aspen_parkland": "2025-03-14 19:14:57 +0000",
       "minecraft:flower_forest": "2025-03-13 21:04:33 +0000",
+      "atmospheric:atmospheric:kousa_jungle": "2025-03-14 19:18:07 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-12 00:07:22 +0000",
       "minecraft:deep_dark": "2025-03-11 02:18:24 +0000",
       "minecraft:meadow": "2025-03-11 01:44:22 +0000",
@@ -444,15 +449,21 @@
     },
     "done": true
   },
+  "create:track_0": {
+    "criteria": {
+      "0": "2025-03-14 18:29:22 +0000"
+    },
+    "done": true
+  },
   "biomancy:biomancy/primal_vision": {
     "criteria": {
       "has_primordial_core": "2025-03-14 18:34:01 +0000"
     },
     "done": true
   },
-  "create:track_0": {
+  "born_in_chaos_v1:the_wind_darkening": {
     "criteria": {
-      "0": "2025-03-14 18:29:22 +0000"
+      "the_wind_darkening_0": "2025-03-14 18:34:35 +0000"
     },
     "done": true
   },
@@ -479,12 +490,6 @@
       "0": "2025-03-14 18:53:01 +0000"
     },
     "done": false
-  },
-  "born_in_chaos_v1:the_wind_darkening": {
-    "criteria": {
-      "the_wind_darkening_0": "2025-03-14 18:34:35 +0000"
-    },
-    "done": true
   },
   "DataVersion": 3465
 }
