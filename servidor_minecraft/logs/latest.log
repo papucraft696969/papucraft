@@ -82,3 +82,9 @@ java.net.UnknownHostException: size-river.gl.joinmc.link: No address associated 
 [15Mar2025 00:01:23.120] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12963ms or 259 ticks behind
 [15Mar2025 00:03:30.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Creative Mode]
 [15Mar2025 00:03:59.322] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: ElPerejil24/papu_estaci_n.nbt
+[15Mar2025 00:08:49.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Successfully filled 745 block(s)]
+[15Mar2025 00:09:09.624] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2617ms or 52 ticks behind
+[15Mar2025 00:10:55.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Gave 1 [Debug Stick] to ElPerejil24]
+[15Mar2025 00:13:10.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Successfully filled 463 block(s)]
+[15Mar2025 00:15:21.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Gave 1 [Command Block] to ElPerejil24]
+[15Mar2025 00:15:48.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Gave 1 [Debug Stick] to ElPerejil24]
