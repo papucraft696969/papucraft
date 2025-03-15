@@ -491,24 +491,6 @@
     },
     "done": false
   },
-  "alexscaves:alexscaves/cave_book": {
-    "criteria": {
-      "cave_book": "2025-03-15 01:35:42 +0000"
-    },
-    "done": true
-  },
-  "quark:get_all_corundum": {
-    "criteria": {
-      "red": "2025-03-15 00:28:31 +0000"
-    },
-    "done": false
-  },
-  "productivebees:husbandry/bee_cage/overworld_nest": {
-    "criteria": {
-      "get_item": "2025-03-15 00:23:55 +0000"
-    },
-    "done": true
-  },
   "comforts:hammock_yellow": {
     "criteria": {
       "has_yellow_wool": "2025-03-15 00:15:34 +0000"
@@ -518,6 +500,24 @@
   "comforts:sleeping_bag_yellow": {
     "criteria": {
       "has_yellow_wool": "2025-03-15 00:15:34 +0000"
+    },
+    "done": true
+  },
+  "productivebees:husbandry/bee_cage/overworld_nest": {
+    "criteria": {
+      "get_item": "2025-03-15 00:23:55 +0000"
+    },
+    "done": true
+  },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "red": "2025-03-15 00:28:31 +0000"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-03-15 01:35:42 +0000"
     },
     "done": true
   },
