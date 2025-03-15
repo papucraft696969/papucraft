@@ -22641,3 +22641,25 @@ java.net.UnknownHostException: size-river.gl.joinmc.link: No address associated 
 [15Mar2025 01:18:27.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Spectator Mode]
 [15Mar2025 01:18:37.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Creative Mode]
 [15Mar2025 01:18:47.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Spectator Mode]
+[15Mar2025 01:19:59.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Creative Mode]
+[15Mar2025 01:20:10.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Spectator Mode]
+[15Mar2025 01:20:16.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Creative Mode]
+[15Mar2025 01:20:24.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Spectator Mode]
+[15Mar2025 01:20:32.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Creative Mode]
+[15Mar2025 01:20:32.919] [Server thread/DEBUG] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Saved train listener data.
+[15Mar2025 01:20:32.922] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Mar2025 01:20:32.945] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Mar2025 01:20:42.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Spectator Mode]
+[15Mar2025 01:20:47.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Creative Mode]
+[15Mar2025 01:21:01.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Spectator Mode]
+[15Mar2025 01:21:06.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Creative Mode]
+[15Mar2025 01:21:44.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Spectator Mode]
+[15Mar2025 01:21:52.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Creative Mode]
+[15Mar2025 01:21:54.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Spectator Mode]
+[15Mar2025 01:22:01.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Creative Mode]
+[15Mar2025 01:22:05.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Spectator Mode]
+[15Mar2025 01:22:09.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Creative Mode]
+[15Mar2025 01:25:32.939] [Server thread/DEBUG] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Saved train listener data.
+[15Mar2025 01:25:32.942] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Mar2025 01:25:32.968] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Mar2025 01:26:04.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Spectator Mode]
