@@ -491,6 +491,12 @@
     },
     "done": false
   },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-03-15 01:35:42 +0000"
+    },
+    "done": true
+  },
   "quark:get_all_corundum": {
     "criteria": {
       "red": "2025-03-15 00:28:31 +0000"
